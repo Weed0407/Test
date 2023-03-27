@@ -1,0 +1,599 @@
+Id,BIRTHDATE,PASSPORT,PREFIX,FIRST,LAST,MAIDEN,MARITAL,RACE,ETHNICITY,GENDER,CITY,COUNTY,ZIP,LAT,LON,HEALTHCARE_EXPENSES,HEALTHCARE_COVERAGE
+a52eed3a-6dd1-7729-b65c-1b5d73e7bbe0,5/10/1993,X51719676X,Mr.,Ignacio928,Gottlieb798,,M,white,hispanic,M,Boston,Suffolk County,2118,42.33432223,-71.1060732,735470.93,1183.76
+ffa580de-08e5-9a47-b12a-db312ad6825b,7/2/1995,X78220409X,Mr.,Salvador46,Urías338,,,white,hispanic,M,Boston,Suffolk County,2127,42.31149848,-71.13064491,268761.16,0
+fedf528b-a646-6ee1-cc30-3d7806722e72,5/13/2014,,,Rosario163,Gislason620,,,white,nonhispanic,M,Tewksbury,Middlesex County,,42.61667381,-71.23844878,210948.26,107.63
+22e46bcf-c24f-861d-2f5c-a388deaf7882,11/28/1947,,,Nita296,Ferry570,,,black,nonhispanic,F,Dunstable,Middlesex County,,42.62944281,-71.46721588,240762.6,0
+f237e253-9052-a038-7c9e-dbd9a1d7da32,6/23/2017,,,Reuben327,Franecki195,,,white,nonhispanic,M,Pittsfield,Berkshire County,1201,42.47102156,-73.27813288,132274.45,15.6
+ce81086c-5cd6-db2d-460f-98ce4b79c88e,12/21/2014,,,Marlin805,Morar593,,,white,nonhispanic,M,Wales,Hampden County,,42.05109887,-72.23221291,150588.67,0
+56c87415-1a9e-d0f5-afe4-45649abb19fa,9/6/1962,X17261824X,Mrs.,Emerita401,Leannon79,Hodkiewicz467,M,white,nonhispanic,F,Boston,Suffolk County,2108,42.28215782,-71.09993494,1543085.52,389037.92
+a1be9060-3c23-e48a-b11c-8e5c73f14d20,11/24/1983,X86068888X,Mrs.,Natosha194,West559,Swaniawski813,M,white,nonhispanic,F,East Douglas,Worcester County,1516,42.00841031,-71.79239568,1704795.01,148386.45
+80451a18-6581-3a84-d0fd-601c1699aae2,10/17/1969,X46348164X,Mrs.,Tricia672,Balistreri607,Wisozk929,M,white,nonhispanic,F,Fitchburg,Worcester County,1420,42.61621709,-71.8380415,1638307.3,481726.95
+a7f1c973-40be-5cb7-59c4-1a00bb765a79,3/30/1965,X8855480X,Mr.,Cornell131,Jast432,,M,white,nonhispanic,M,Clinton,Worcester County,,42.45918834,-71.67864244,1429912.38,4279.14
+933003a9-9395-ac88-9a6a-6bd12d54dc50,2/25/2013,,,Damian46,Sanford861,,,white,hispanic,M,Haverhill,Essex County,1835,42.76033143,-71.05467919,125274.86,0
+81335ec1-1dfb-7055-d060-ad796093262b,9/17/2013,,,Ericka421,Maggio310,,,white,nonhispanic,F,Upton,Worcester County,1568,42.17395452,-71.61810733,226419.86,90.6
+c64fb2a4-c337-ab05-25dd-f594b346bb35,11/28/1947,X11078470X,Mrs.,Lorrine765,Feil794,Collins926,M,black,nonhispanic,F,Dunstable,Middlesex County,,42.68223693,-71.4969738,1001377.92,77266.15
+79725973-5981-4096-12f5-ceeecba83fc4,8/31/1982,X36928037X,Mr.,Amos720,Russel238,,M,white,nonhispanic,M,Mattapoisett Center,Plymouth County,,41.64870712,-70.81367656,998823.68,274.45
+7361ce15-cf67-ae76-88e6-bcbdca19ce0b,5/26/1972,X27585397X,Mr.,Jason347,Lakin515,,S,white,nonhispanic,M,Ashland,Middlesex County,,42.2179123,-71.4655436,1352761.19,413807.14
+53ac39e4-421d-0f47-f676-8e3970514d83,5/13/1987,X54885237X,Mr.,Junior695,Lindgren255,,M,white,nonhispanic,M,Marlborough,Middlesex County,,42.33646814,-71.50797831,865940.61,5657.51
+c9acc759-b035-3d79-946c-a32466c17357,12/18/2016,,,Cary869,Ziemann98,,,white,nonhispanic,M,Rehoboth,Bristol County,,41.81354831,-71.20597171,142263.83,90.6
+1caed495-40e0-3209-f22c-8424b668b7e7,10/19/1982,X4871572X,Ms.,Kathern391,Beier427,,S,white,nonhispanic,F,Newton,Middlesex County,2466,42.34789831,-71.20629047,1199676.57,122371.52
+2dfdeaa1-2888-3e72-30a8-aa4811861cf4,2/8/2008,,,Louie190,Buckridge80,,,white,nonhispanic,F,Canton,Norfolk County,,42.20677409,-71.15396229,377032.36,240.6
+4eac55e3-7088-8ce7-9466-56eb2aa4bea1,9/6/1962,X87346437X,Mrs.,Marsha122,Connelly992,McClure239,M,white,nonhispanic,F,Boston,Suffolk County,2128,42.38735209,-71.14319956,1777825.21,315386.54
+e06faff7-d23a-1bd8-ab38-9a2b41b3ca44,12/29/1999,X10973468X,Mr.,Claude750,Yost751,,,white,nonhispanic,M,Fitchburg,Worcester County,1420,42.58857576,-71.8527224,573798.15,392.26
+364df6d6-7913-5089-fb13-572f0e01e3f7,12/18/1958,X47397891X,Mr.,Mikel238,Jerde200,,M,white,nonhispanic,M,Longmeadow,Hampden County,,42.03457151,-72.54867089,1726216.42,12235.78
+757531ef-67b8-c388-4bc3-71afe97a0a41,7/9/1943,X87495489X,Mr.,Owen89,Jacobs452,,S,white,hispanic,M,Brockton,Plymouth County,2301,42.07579623,-71.04655996,1336115.29,4395.3
+30e3f161-9da1-8ec4-8ec1-bcb362dc27e6,12/31/1969,X79101515X,Mrs.,Andrew29,Koepp521,Considine820,M,white,nonhispanic,F,Rockland,Plymouth County,,42.09517397,-70.91048437,2090431.59,252359.38
+039cdf28-80f4-4ea0-c311-5c56f20cd9f4,8/17/2006,,,Lyndsay952,Roob72,,,white,nonhispanic,F,North Falmouth,Barnstable County,2556,41.66893917,-70.64532467,406377.88,10473.54
+938082d9-3298-45b2-f936-752088d18a02,3/30/1938,X64626092X,Mrs.,Marcene673,Oberbrunner298,Langosh790,M,white,nonhispanic,F,Westport,Bristol County,,41.59149444,-71.09507728,2397787.69,1114802.28
+9b1f3440-8c70-5ef9-0d84-a2671d1b459e,8/18/1981,X30245623X,Mr.,Genaro214,Runolfsson901,,M,white,nonhispanic,M,Monson,Hampden County,,42.09146213,-72.31365346,1005481.87,9075.86
+9f5281d0-71b5-6eec-c1bb-d988bed159e5,8/2/1996,X4297084X,Ms.,Hanna456,Wiegand701,,,black,nonhispanic,F,Pembroke,Plymouth County,,42.08642409,-70.84490524,1090741.8,92477.39
+110e2de2-3413-fb24-3d5e-f600b7e22902,10/20/1978,X29916412X,Mrs.,Rachel885,Leffler128,Kunde533,M,asian,nonhispanic,F,Millis,Norfolk County,,42.12394685,-71.41253656,1477051.73,286260.1
+508b624f-b77d-efae-b507-d9533e25df08,9/12/1963,X39377800X,Mrs.,Buffy238,Dickinson688,Cruickshank494,M,white,nonhispanic,F,Lawrence,Essex County,1843,42.6529055,-71.12027335,249366.25,1116554.81
+35fc0e8c-f120-7927-6c62-f092f46e260e,9/25/2001,X18002528X,Mr.,Ian270,Ebert178,,,white,nonhispanic,M,Acton,Middlesex County,,42.49345644,-71.4387429,599047.21,286.11
+d52e0257-fc75-5cba-5ca4-bd9d4d053a44,11/28/1947,X64611062X,Mrs.,Roni48,Bogan287,Langworth352,M,black,nonhispanic,F,Dunstable,Middlesex County,,42.63366212,-71.51026553,2441017.61,632859.28
+42901ac6-781d-b624-beac-af463ab5c393,3/6/2004,,Ms.,Denae137,Flatley871,,,white,nonhispanic,F,Sagamore,Barnstable County,2561,41.74974846,-70.57694622,413097.18,22489.29
+e496a0bc-5c2b-4161-dcab-6b74f649ce09,4/14/1959,X33734356X,Ms.,Hana676,Howell947,,S,asian,nonhispanic,F,Chelsea,Suffolk County,2150,42.38083784,-71.04693238,1669540.41,127074.72
+06bd9d7c-2f99-770a-f54a-ab6a8f942455,8/2/2009,,,Caroyln232,Kuhic920,,,white,hispanic,F,Hull,Plymouth County,2045,42.30272581,-70.93945026,313636.59,1101.09
+c95d7e76-45c7-c01c-7582-493ba74a3763,4/8/2007,,,Raphael767,O'Connell601,,,white,hispanic,M,Somerville,Middlesex County,2140,42.3714652,-71.05810624,373199.89,413.27
+f0ee6724-4c58-f810-5f20-8a1b94751ed9,12/9/1969,X86412307X,Mrs.,Gladis186,Becker968,Bartell116,M,white,nonhispanic,F,Barnstable,Barnstable County,2632,41.62366582,-70.24185874,1903301.28,384586.46
+0fc0e215-bd6b-0247-f7a0-db3eca0d988a,12/14/1958,X20451937X,Mr.,Gustavo235,Rodriguez71,,S,white,nonhispanic,M,New Bedford,Bristol County,,41.52360521,-70.99803601,232318.67,553709.27
+7850b402-3263-1fb1-ccd1-50436acbe266,7/9/1943,X61681206X,Mr.,Tyson541,Wiza601,,M,white,hispanic,M,Brockton,Plymouth County,,42.05077641,-71.0261703,1907823.16,100748.55
+29c74f5d-4e69-2aa2-dfd9-7e3415f9c2f9,4/13/1946,X70913387X,Mrs.,Grayce293,Gibson10,Stark857,M,white,nonhispanic,F,Lynn,Essex County,1940,42.4507123,-70.96808602,383727.75,50049.75
+d18f7e62-5071-0ece-8797-1b76c2a0187a,3/3/1971,X53845243X,Mr.,Russel238,Pfannerstill264,,M,white,nonhispanic,M,Wayland,Middlesex County,,42.3604844,-71.39935826,1302378.31,30611.14
+76f201d7-ad05-0c12-13db-23322939945a,12/3/2014,,,Rosario163,Blick895,,,white,nonhispanic,F,Newton,Middlesex County,2462,42.2826751,-71.21693272,25238.7,13085.12
+3101e346-487d-80a0-371c-7d2c032f6813,3/27/1992,X48655988X,Mrs.,Enda486,Swift555,Swaniawski813,M,white,hispanic,F,Boston,Suffolk County,2124,42.23831631,-71.12040453,1654204.48,245691.51
+cfe320b0-6759-426f-7b33-03233f54e05d,9/15/1959,X70713713X,Mr.,Emmanuel930,Zboncak558,,M,white,nonhispanic,M,Methuen,Essex County,1841,42.74735723,-71.15409998,1654379.23,26426.42
+be77d6d3-2a19-f6bb-d893-f27123a6a58d,5/20/1962,X28717675X,Mr.,Lindsay928,Schuster709,,M,white,nonhispanic,M,Lowell,Middlesex County,1854,42.69168523,-71.3495191,1530240.69,13190.07
+eb8b7ec2-2c18-49f3-a43e-97c416f25761,3/30/1938,X29462093X,Mrs.,Latoyia537,O'Connell601,Harris789,M,white,nonhispanic,F,Westport,Bristol County,,41.6006654,-71.10312966,2512231.92,815859.69
+392bd146-e08d-70f2-ed45-084e632d569d,3/15/2015,,,Garrett899,Schmitt836,,,white,nonhispanic,M,Milton,Norfolk County,,42.25011906,-71.07550294,159854.3,262.88
+3e591da9-115e-bf78-8e5e-2f1a0d263cdd,4/14/1959,X59942289X,Mrs.,Nikole56,Rice937,Rosenbaum794,M,asian,nonhispanic,F,Chelsea,Suffolk County,,42.36071431,-71.06323827,2514828.12,144712.92
+ad2d4da6-daaa-a5bb-b882-5efc94564961,12/6/1937,X84932120X,Ms.,Dorthey25,Yost751,,S,white,nonhispanic,F,Yarmouth,Barnstable County,,41.65175257,-70.20617155,2452030.49,746814.86
+93f89a6a-7ee5-d79b-8fc4-8a821bc41065,7/8/2001,X56118598X,Ms.,Lillie543,Johnston597,,,white,nonhispanic,F,Boston,Suffolk County,2136,42.3966161,-71.09723082,1295525.46,0
+7418b5a1-418a-09e0-583b-33ca0c6e4c8c,2/23/2018,,,Hassan290,Streich926,,,white,nonhispanic,M,Worcester,Worcester County,1545,42.24978179,-71.80955693,105592,4110.01
+4e6a7fb2-f1bb-c476-b86b-f5c2029ef37b,1/5/1991,X60041274X,Mr.,Gabriel934,Hegmann834,,M,other,nonhispanic,M,Oxford,Worcester County,1540,42.07766521,-71.88783043,761662.89,1067.88
+0a397d0d-f8f0-5c39-f285-a007bf661917,5/30/1972,X37697635X,Mr.,Palmer257,McCullough561,,M,asian,nonhispanic,M,Dracut,Middlesex County,,42.71361257,-71.31753585,1386791.36,1018.3
+8d4af425-9d67-8c41-ceef-6d6b7a37e7b9,3/15/2015,,,Noe500,Rath779,,,white,nonhispanic,M,Milton,Norfolk County,,42.23841492,-71.10493923,178260,4305.53
+42639a80-fbc0-10e6-5228-401bdd245e56,6/23/2014,,,Erline657,Hintz995,,,asian,nonhispanic,F,Everett,Middlesex County,2149,42.4333259,-71.08111406,219404.72,90.6
+cafc1211-2a16-40e3-57b6-946f0da0abe8,7/25/2006,,,Marisol435,Zapata667,,,white,hispanic,F,Upton,Worcester County,1568,42.16627229,-71.63236342,398567.95,186.23
+aac890c1-a8d4-5016-303a-3a08bd8229eb,9/15/1977,X68085619X,Ms.,Jacquie940,Veum823,,S,white,nonhispanic,F,Plymouth,Plymouth County,,41.92650607,-70.59707158,1719841.27,306968.48
+55be4d67-d520-afac-fa89-3c3a07acdf5a,4/25/1944,X6144219X,Mrs.,Elva122,Swift555,Cummings51,M,white,nonhispanic,F,Medford,Middlesex County,2145,42.46601252,-71.11628919,1412156.39,153035.66
+ee6181d0-32f6-cd74-8b6e-98065be31406,4/28/2008,,,Sarita454,Rippin620,,,white,nonhispanic,F,Bourne,Barnstable County,2532,41.71766439,-70.64615704,231765.76,152.9
+4ecae38d-8b2b-a706-3731-e925e9507d89,10/13/1994,X4746473X,Mrs.,Chanda935,Walter473,Boyle917,M,white,nonhispanic,F,Woburn,Middlesex County,,42.49716806,-71.15758957,1532313.09,865.6
+ab45e4c4-e8be-6f2a-f1ed-061b53781696,12/19/2003,,Mr.,Anton902,Weber641,,,white,nonhispanic,M,Wrentham,Norfolk County,,42.06807312,-71.35557181,466253.65,192.52
+1f045276-71ff-097b-d8c4-2f948b4728be,5/9/2002,X31550644X,Ms.,Ramona980,Alonso270,,,white,hispanic,F,Tyngsborough,Middlesex County,,42.69191696,-71.44257744,630044.34,564.56
+f8fe72c7-e18d-b342-862d-07d6342854ab,11/1/1960,X85766813X,Mr.,Eddy900,Connelly992,,M,white,nonhispanic,M,Worcester,Worcester County,1603,42.27592223,-71.84105979,90248.01,0
+2f798d72-f443-9bb0-99b6-1e234a8f54d0,1/2/1972,X58556217X,Mr.,Arnoldo445,Quitzon246,,M,white,nonhispanic,M,Uxbridge,Worcester County,,42.09963758,-71.69020382,1309533.4,1856.41
+50bb3512-993a-4732-d9d8-993225a0369c,10/3/1995,X42682239X,Mr.,Mervin111,Pouros728,,,black,nonhispanic,M,Brimfield,Hampden County,,42.17768958,-72.20923697,679560.32,3824.36
+ef26ac34-007c-a811-7d1c-9551873d2672,4/6/2011,,,Wendy149,Wolff180,,,white,nonhispanic,F,Salem,Essex County,1907,42.57193773,-70.87546262,282539.8,832.75
+39029eb1-4185-61e1-4361-e4ab35e7a794,4/25/1996,X1677675X,Ms.,Young120,Hahn503,,,white,nonhispanic,F,Mansfield,Bristol County,,41.96946675,-71.17331685,1301479.68,1701
+fb209018-585b-117c-175d-73a0c879ece8,4/12/2005,,,Bert917,Bins636,,,white,nonhispanic,M,South Hadley,Hampshire County,,42.23062003,-72.53130337,478141.65,1229.83
+da3d93c6-435d-fb9f-8b93-6d9bfe5af211,4/29/2017,,,Jarrett354,Leuschke194,,,black,nonhispanic,M,Lowell,Middlesex County,1851,42.63569817,-71.25965312,59615.65,0
+e8312c1c-0ad8-b643-018d-64156575b753,11/9/1988,X32062674X,Mr.,Jamaal34,Haley279,,M,white,nonhispanic,M,Boston,Suffolk County,2111,42.35358507,-71.06875596,896353.37,1408.14
+f189fe76-a46b-4a70-9a54-65e0ed793218,9/17/2013,,,Amos720,Monahan736,,,white,nonhispanic,M,Boston,Suffolk County,2136,42.32742924,-71.02513622,103565.14,0
+d6010265-ab3e-b996-5a9c-63b812bca962,9/15/1977,X80232862X,Mrs.,Ressie457,Mayer370,Sipes176,M,white,nonhispanic,F,Plymouth,Plymouth County,,41.85918142,-70.60873263,1319489.9,192580.59
+930e8c04-3af2-f53a-5b04-a603ab270d52,3/31/1973,X81538226X,Ms.,Lashunda872,Stark857,,S,white,nonhispanic,F,Dracut,Middlesex County,,42.68418417,-71.26152526,2048285.52,200352.89
+79de1207-6d8e-63b4-6274-c3162f1cbb7f,2/17/2010,,,Roxie199,Kuphal363,,,white,hispanic,F,Wales,Hampden County,,42.06452434,-72.26677839,344389.62,1402.57
+3a8c47b9-e517-1689-149d-f9e021ee37ec,4/30/1974,X37258048X,Mr.,Hilton264,Cruickshank494,,M,white,nonhispanic,M,Worcester,Worcester County,1608,42.28054192,-71.82574559,1303801.27,12615.09
+fcdfcb3f-f3b0-51a4-92d6-4dd6a3a1d48c,11/10/2000,X75710721X,Ms.,Meghann680,Willms744,,,white,nonhispanic,F,Stoneham,Middlesex County,,42.50714554,-71.0999557,336099.99,233.84
+67d89254-3d48-2cea-ceef-83fa1c6ee43e,11/2/2008,,,Antone63,O'Connell601,,,white,nonhispanic,M,Lexington,Middlesex County,2421,42.4687689,-71.26274741,486851.67,15285.55
+b9182c63-ca5f-b7f0-51bb-0a093cdcff7b,6/2/1946,X27702211X,Mrs.,Rosamaria757,Hoeger474,Bailey598,M,white,nonhispanic,F,Chicopee,Hampden County,1020,42.17977317,-72.52102985,1508158.01,165765.94
+70551cfc-2359-3b84-ce22-01521a4da3cf,11/1/1995,X67940058X,Mr.,Mohammed454,Blanda868,,,white,nonhispanic,M,Ashland,Middlesex County,,42.26409366,-71.49439215,654208.72,754.82
+9addf6fd-094e-52d3-ff86-ec3c7736c1b1,4/25/1944,X55691654X,Mrs.,Elfreda431,Marks830,Dibbert990,M,white,nonhispanic,F,Medford,Middlesex County,2155,42.45492748,-71.08883928,1841033.73,365315.82
+837701c8-d95f-5b40-bd2d-828c635cdd03,7/19/1971,X80919280X,Mrs.,Star250,Parker433,Powlowski563,M,white,nonhispanic,F,Brimfield,Hampden County,,42.1436607,-72.25244962,2081189.35,334961.72
+47951da6-4bf7-a15d-185a-1579d2b13fb2,5/3/1961,X58365791X,Mrs.,Lieselotte680,Hodkiewicz467,Leannon79,M,white,nonhispanic,F,Falmouth,Barnstable County,2540,41.56455003,-70.63005161,270679.51,1241442.69
+c3f13bc8-396d-d852-f820-4a51352d33d7,2/20/1974,X71495211X,Ms.,Kelsie51,Bechtelar572,,S,white,nonhispanic,F,Palmer,Hampden County,,42.19890276,-72.28348549,1762348.96,226353.57
+93cc7d4b-3945-503c-526a-041ace5a25e4,1/13/1969,X13589772X,Mr.,Darrel772,Cormier289,,M,white,nonhispanic,M,Northampton,Hampshire County,1053,42.35695332,-72.69977201,1346284.1,7499.11
+f91cda2a-3277-98bb-4f3c-f3a6b2356758,3/18/1969,X18312428X,Mr.,Randy380,Anderson154,,M,white,nonhispanic,M,Somerville,Middlesex County,2144,42.45443679,-71.08717836,1490386.79,58259.96
+ddb3d615-8710-04f1-9794-a029e0a57c7a,3/14/1955,X30026091X,Ms.,Vanetta255,Block661,,S,black,nonhispanic,F,Waltham,Middlesex County,2453,42.38254548,-71.27948664,2152319.94,655275.12
+2242586d-ef8c-e414-36f6-8076317bd571,3/8/2022,,,Perla570,Hilll811,,,other,nonhispanic,F,North Attleborough,Bristol County,,42.00656489,-71.29909648,10319.28,0
+43cfedb1-a601-35be-7735-2f214e1bdab1,12/20/2002,,,Cameron381,Lockman863,,,other,nonhispanic,M,Longmeadow,Hampden County,1106,42.03695807,-72.58779853,337581.19,60666.02
+450146bb-55d9-d22d-e5bf-bb0e3cc22931,11/24/1979,X7628263X,Mr.,Bernie827,Wilkinson796,,,white,nonhispanic,M,Pittsfield,Berkshire County,,42.45153838,-73.24857966,89604.02,252964.57
+20e663ad-1382-a510-edcc-fd38beaa707a,10/30/1986,X325106X,Mrs.,Layne115,Windler79,Mertz280,M,white,nonhispanic,F,Clinton,Worcester County,1510,42.411992,-71.66460245,1527189.76,272475.52
+e14e16ce-f7cf-5dbd-4ae2-002f506cd153,11/7/1990,X44270241X,Mrs.,Hermina428,Wolff180,Lakin515,M,asian,nonhispanic,F,Boston,Suffolk County,2135,42.2880178,-71.04869945,1117274.83,58469.64
+87fbc83a-49e2-2889-ee5a-3064bb121ddd,2/11/1960,X62576938X,Mrs.,Roseline981,Hansen121,Wilderman619,M,white,nonhispanic,F,Quincy,Norfolk County,2170,42.24540665,-71.0100821,2025137.35,357175.51
+aac9e022-ad07-f157-e3ef-ef4227950cb8,12/20/2002,,Mr.,Gil594,Emard19,,,other,nonhispanic,M,Longmeadow,Hampden County,,42.05297642,-72.60133291,580507.94,175.65
+a1043f91-baad-8f10-9d16-de468adaa81c,3/2/2022,,,Parker433,Bradtke547,,,white,nonhispanic,M,Winchester,Middlesex County,,42.48227855,-71.11448079,10687.03,0
+a9e528b5-a3ac-8aa8-ad53-c7f2edd38b97,10/24/2005,,,Avril120,Schmidt332,,,white,nonhispanic,F,Randolph,Norfolk County,2368,42.15192872,-71.03402056,555279.99,1447.86
+216ffdba-63d4-7fba-c1ae-b38107473dbb,11/1/1960,X13691511X,Mr.,Russ979,Muller251,,M,white,nonhispanic,M,Worcester,Worcester County,1608,42.26469992,-71.80829022,630744.61,432.66
+21e4da92-521f-9918-3ad1-e95110a46b3d,10/27/1991,,,Suellen60,Blanda868,,,white,nonhispanic,F,Chelmsford,Middlesex County,,42.60748146,-71.32064622,61204.47,0
+d602b6b5-ae99-7608-2917-af55efb7986c,11/24/1979,X30243440X,Mr.,Terrell212,Goldner995,,M,white,nonhispanic,M,Pittsfield,Berkshire County,1201,42.41027985,-73.25915587,132394.98,32393.84
+b6d361ce-90a5-68b7-4d78-9350dd19ddea,10/24/1974,X64710110X,Mr.,Gabriel934,McKenzie376,,M,white,nonhispanic,M,Worcester,Worcester County,1545,42.29738502,-71.86846141,1404909.63,93900.86
+9f9b0510-e0a5-7210-1a83-421668ea81df,8/17/1956,X2935971X,Mr.,Bernie827,Baumbach677,,M,white,nonhispanic,M,Brockton,Plymouth County,2301,42.03144929,-71.03293513,1628601.14,1147.88
+2d17b95a-02ec-e4e3-e75f-c083891ed191,4/6/2000,X10865595X,Mr.,Pat3,Legros616,,,white,nonhispanic,M,Worcester,Worcester County,1610,42.21289273,-71.82141331,530282.6,185.37
+7836b4b1-dfe1-ec8c-8372-96cd77acbc08,3/11/2017,,,Candy565,Kirlin939,,,white,nonhispanic,F,Worcester,Worcester County,,42.21470061,-71.8586477,137958.93,90.6
+dbc3262a-e54e-4919-12b4-05eecddee2dd,5/16/1995,X40578083X,Mr.,Vaughn909,Kessler503,,S,white,nonhispanic,M,Natick,Middlesex County,,42.29770716,-71.30270063,951715.21,140.19
+42c2761d-6968-2e90-f3a2-f645f1adf1a6,6/3/2014,,,Jackelyn13,Pacocha935,,,white,hispanic,F,Acton,Middlesex County,,42.47233262,-71.48275261,204322.48,211.29
+ae6718e7-2a87-4f61-929d-aa1ae31c6c26,8/30/1966,X50188879X,Mrs.,Darnell564,Cruickshank494,Mosciski958,M,white,nonhispanic,F,Brockton,Plymouth County,,42.05242221,-71.04285629,1536047.46,247002.72
+77fd2a2d-d774-2626-f8fb-9696d5954315,2/17/2007,,,Diann220,Halvorson124,,,white,nonhispanic,F,Yarmouth,Barnstable County,,41.6997286,-70.21916323,388586.89,1752.48
+38ce9a0c-b72f-bf36-57fe-4b8ddd2b7a83,10/27/1991,X62926060X,Mrs.,Johnette525,Steuber698,Rice937,M,white,nonhispanic,F,Chelmsford,Middlesex County,,42.62046277,-71.32013356,972976.91,238954.63
+50ee457d-4cf7-16fe-dacc-b857d69d8064,4/16/1972,X35366548X,Mrs.,Fiona703,Rolfson709,Predovic534,M,white,nonhispanic,F,Lynn,Essex County,1904,42.45907815,-70.98046634,1976418.16,860169.13
+e3a0ccfb-a1cc-e34f-59de-84f85ed42087,1/7/1984,X46611267X,Mr.,Lemuel304,MacGyver246,,S,native,nonhispanic,M,Springfield,Hampden County,1103,42.15488908,-72.52614331,1599530.48,66925.09
+b5315d36-535b-a5b8-1926-1a5098c6aff8,10/28/1922,X75400679X,Mrs.,Coralee911,Kuhlman484,Gulgowski816,M,white,nonhispanic,F,East Dennis,Barnstable County,2641,41.7158588,-70.16078911,2681542.25,382766.24
+3e020a59-02ee-40b1-3861-5d0596b2350a,7/12/2007,,,Anita473,Treviño536,,,white,hispanic,F,West Dennis,Barnstable County,2670,41.61457421,-70.14512508,369781.99,208.1
+7af18d31-c761-2e4a-78b3-d474e73193c8,12/30/1960,X48223389X,Mr.,David908,Goodwin327,,M,white,nonhispanic,M,Lawrence,Essex County,1841,42.72362553,-71.17473378,1223800.7,156211.5
+37e9bdef-08ad-02ce-e88d-3c25c55a6c36,2/11/1979,X1878213X,Mrs.,Stefany238,Fritsch593,Kautzer186,M,white,nonhispanic,F,Worcester,Worcester County,1606,42.23412665,-71.77884666,1154946.21,292074.62
+4987352a-6bf4-6051-6ca7-e37cfef5bd49,11/3/2000,X2604714X,Ms.,Alexander630,Hyatt152,,,white,nonhispanic,F,Adams,Berkshire County,,42.62784125,-73.10119372,71124.06,38835.14
+2093f742-e650-0796-0f51-230298f5b924,1/6/1958,X4205004X,Mr.,Wendell199,O'Reilly797,,M,other,nonhispanic,M,Pinehurst,Middlesex County,1866,42.5705643,-71.24450017,1680596.48,1625.02
+b8b7035f-49c7-e4e5-8627-b292d330e0d3,10/11/1975,X86687783X,Mr.,Dante562,Pfeffer420,,M,white,nonhispanic,M,Chelsea,Suffolk County,,42.43390308,-71.04425405,1505441.52,6082.78
+49bae58d-0420-666c-6b2b-c526dad4eaa3,10/14/1942,X27675706X,Mr.,Kelly223,McLaughlin530,,M,white,nonhispanic,M,Boston,Suffolk County,2129,42.34869389,-71.0180729,1612903.2,740.18
+a573e1b5-7264-4e0c-3495-1e04f3bd8423,11/25/1956,X43506222X,Mrs.,Becki838,O'Conner199,Spencer878,M,white,nonhispanic,F,Pittsfield,Berkshire County,1201,42.44786873,-73.29173057,844920.97,422506.18
+cd081c28-b9b6-4687-ac5f-eeffdcae33a1,9/19/1982,X36622956X,Mrs.,Ramonita441,Beier427,Frami345,M,white,nonhispanic,F,Brockton,Plymouth County,2302,42.12533763,-71.00309508,1148721.56,206363.86
+7dcbdac0-475a-5d76-0dfe-2a8bad55d96b,5/26/2013,,,Bret7,Daugherty69,,,white,nonhispanic,M,Westfield,Hampden County,,42.11130295,-72.81699474,163494.38,0
+24b1c180-c64a-1314-3de5-bf1b357a160a,3/21/1965,X80208869X,Mr.,Marcelo725,Shields502,,M,white,nonhispanic,M,Boston,Suffolk County,2109,42.4535958,-70.9809597,1626162,6075.49
+8a6bd5c2-28ba-315d-d468-976c63500e95,8/26/1969,X24322613X,Mr.,Jospeh459,Littel644,,M,asian,nonhispanic,M,Groveland,Essex County,,42.7048633,-71.03991598,1309266.06,95.21
+cb324460-1d2d-cce8-163f-fac3a8b0e71e,9/20/1994,X63482169X,Mr.,Colton403,Wolff180,,M,white,nonhispanic,M,Hancock,Berkshire County,,42.52373609,-73.35353729,64986.32,0
+90b88a68-cec7-3a30-924f-77a55bc9658f,11/29/2010,,,Rudolph554,Langworth352,,,white,nonhispanic,M,Milford,Worcester County,,42.1904488,-71.56361787,287251.05,2934.85
+4a75ca48-30da-e247-a9b5-ed24b969089b,10/11/1975,X264583X,Mr.,Phillip440,Nader710,,M,white,nonhispanic,M,Chelsea,Suffolk County,2151,42.36983448,-70.95235581,1283537.26,23648.58
+41d55b75-8c61-67b5-f2de-69d3939f2623,3/11/1964,,Ms.,Candi549,Maggio310,,,white,nonhispanic,F,Medford,Middlesex County,,42.44097664,-71.14587645,539630.2,230.47
+b43a6a02-0741-22be-21dd-d78fbb301f32,9/19/1970,X27957818X,Mr.,Trenton748,Goodwin327,,M,white,nonhispanic,M,Middleton,Essex County,,42.59856165,-71.02754939,158041.64,0
+2d2544cf-109c-3821-52c0-5ac45cc0cec8,1/12/1950,X27039358X,Mr.,Jackson413,Waelchi213,,M,white,nonhispanic,M,Uxbridge,Worcester County,,42.0241258,-71.67380811,1870749.24,79342.8
+00c4a540-852e-002b-5f4f-fd0c24ffa09e,8/11/2006,,,Krystle484,Funk324,,,white,nonhispanic,F,Boston,Suffolk County,2215,42.44161285,-70.97320062,407468.7,589.53
+7b8cba4b-cdb5-0f8f-13c4-8d0b639bc8af,6/2/1946,X54115105X,Ms.,Nannie905,Ferry570,,S,white,nonhispanic,F,Chicopee,Hampden County,,42.10881381,-72.55620362,1214734.3,216012.48
+1c5b5866-c8e9-e0d9-0c37-e65b4d36e094,1/30/2006,,,Lucinda68,Moore224,,,white,nonhispanic,F,Attleboro,Bristol County,,41.92205115,-71.3039024,426045.17,15.6
+547ade77-73cc-1867-4b43-a212acd2be5b,9/30/1963,X29096244X,Mr.,Casey401,Herman763,,S,white,nonhispanic,M,Marshfield Hills,Plymouth County,2051,42.14356151,-70.72121316,1718110.72,4809.9
+ae4cfa75-da59-2ed2-faa6-0e205d86b09e,10/6/1941,X15070850X,Ms.,Tyesha844,Pagac496,,S,white,nonhispanic,F,Brockton,Plymouth County,,42.06302067,-71.0277382,3672620.16,225691.66
+0b12ea30-ee28-1399-fa55-05132d34e54a,6/21/1994,X26803864X,Mr.,Devon268,Borer986,,M,white,nonhispanic,M,Bedford,Middlesex County,1730,42.48546355,-71.25731782,690162.26,21328.3
+25625efb-4d5a-672a-cd41-aaa973a6c8b5,3/19/1949,X89405856X,Ms.,Karrie350,Borer986,,S,white,nonhispanic,F,Dedham,Norfolk County,2026,42.27828074,-71.1958585,2169282.9,712557.76
+80d3ddc6-60c0-f86f-edd9-78f48a38d544,3/20/1976,X52274994X,Mrs.,Priscilla527,Bosco882,Legros616,M,white,nonhispanic,F,Raynham,Bristol County,,41.95942354,-71.09259661,1613367.46,65100.65
+454cc5b8-bb54-475a-3fe6-3431e024ca04,7/5/2009,,,Sulema841,Purdy2,,,white,nonhispanic,F,West Bridgewater,Plymouth County,,42.00127024,-70.98819224,314756.89,165.6
+7838daf9-c5fe-01e3-44a6-62abc5e943e6,2/27/2018,,,Emile522,Casper496,,,white,nonhispanic,M,Medfield,Norfolk County,2052,42.18363181,-71.3282675,113897.89,90.6
+779f6866-026f-b7c8-5092-14b2da62798a,9/16/1988,X77726657X,Mrs.,Scottie437,Littel644,Marquardt819,M,white,nonhispanic,F,Wenham,Essex County,,42.55246564,-70.90113061,813709.69,336971.72
+3c13f562-3213-a056-b745-1a33bfaeceb5,3/11/1964,X69114393X,Ms.,Helena807,Kuhic920,,S,white,nonhispanic,F,Medford,Middlesex County,,42.35604987,-71.11423243,2660602.21,316416.24
+0c8b4934-e043-9ebb-9d78-74d077d1e482,8/17/1965,X46148485X,Ms.,Fidela881,Haag279,,S,black,nonhispanic,F,Franklin,Norfolk County,2038,42.07152101,-71.39160971,1866802.59,6643.65
+14765880-7192-7de8-9daf-52596f0b94a3,6/4/1966,X57501469X,Mr.,Maurice742,Bogan287,,M,white,nonhispanic,M,Westport,Bristol County,,41.62372894,-71.09230832,1073626.33,1038.3
+8b4c29ab-ff82-4b62-0b80-3c31b11743e2,9/22/1978,X85462703X,Mrs.,Cira533,Breitenberg711,Weissnat378,M,asian,nonhispanic,F,Tewksbury,Middlesex County,,42.61025348,-71.1899596,1426020.97,628803.31
+cb4f7a41-fcf2-7430-76c7-c6ce49d84cb8,3/28/1970,X324474X,Ms.,Chan58,Predovic534,,S,white,nonhispanic,F,Quincy,Norfolk County,,42.28841043,-70.97268827,2136940.69,439682.38
+07e034d1-604a-80ee-7d4c-730841e502ee,11/3/2002,,Mr.,Vernon254,Greenfelder433,,,white,nonhispanic,M,Melrose,Middlesex County,,42.46269688,-71.10303145,503084.35,1693.76
+331fe020-e1ff-a033-4659-73a0dafe5782,11/20/2002,,Ms.,Allyson474,Mayert710,,,black,nonhispanic,F,Cambridge,Middlesex County,,42.36149698,-71.14452807,640469.34,30883.09
+9a6bd8e4-b9a5-0f41-cca7-4a04417fe63c,12/8/1979,X33870149X,Mrs.,Tammara379,Roberts511,Lowe577,M,white,nonhispanic,F,Quincy,Norfolk County,2186,42.27444727,-71.12637237,1431229.8,315272.26
+3808d011-1141-a9af-49aa-4b548c5507ce,6/16/2014,,,Sammie902,Connelly992,,,white,nonhispanic,M,Oak Bluffs,Dukes County,,41.44648119,-70.50756276,209683.13,3158.19
+e60ab28c-7111-c09c-f1d8-c4edd96563a0,3/13/1948,X73154123X,Mrs.,Nilsa143,Abernathy524,Ankunding277,M,white,nonhispanic,F,Fall River,Bristol County,,41.72172832,-71.08551571,2491453.52,481769.05
+10136901-4280-7b2c-da2a-032013c7e1af,8/23/1969,X71004342X,Mr.,Raymon366,Bogan287,,M,white,nonhispanic,M,Wilbraham,Hampden County,,42.12041037,-72.38211521,1366407.5,8831.95
+4b29d36d-29b8-fcea-eb67-92e452abb7c2,5/16/2015,,,Maryetta775,Von197,,,white,nonhispanic,F,Ipswich,Essex County,,42.67580005,-70.83970557,22939.07,11382.28
+0e636bcd-585f-0bc2-95e4-5ca07171b43f,6/4/1966,X59159754X,Mr.,Marcel580,VonRueden376,,M,white,nonhispanic,M,Westport,Bristol County,,41.61760344,-71.10255609,1382351.47,3009.63
+11236b5d-5700-e042-7c13-3179780b8f72,6/24/1969,X53326005X,Mr.,Paris331,Padberg411,,M,white,nonhispanic,M,Cambridge,Middlesex County,2139,42.39967873,-71.10015259,1324707.27,1258.85
+905d890c-847c-b64e-eba1-919c4f5b4951,6/28/2007,,,Russell422,Howell947,,,black,nonhispanic,F,Somerville,Middlesex County,2138,42.43677105,-71.0744549,382117.67,2378.48
+185f7cf1-a38e-71a1-9252-1b9203688158,9/22/2001,X27015924X,Ms.,Juliane376,Rippin620,,,white,nonhispanic,F,Boston,Suffolk County,2215,42.30750169,-71.1152421,534925.75,1766.02
+327f7269-fad4-61bc-d7b6-2b7a38d751f0,2/10/1982,X7110382X,Mrs.,Brenda158,Hane680,Green467,M,white,nonhispanic,F,Merrimac,Essex County,,42.80481632,-71.04879365,598749.86,0
+53e3b9ff-8427-43e6-7685-4a51555825b4,3/20/1979,X69448502X,Mrs.,Teressa589,Feeney44,Green467,M,asian,nonhispanic,F,Brookline,Norfolk County,2446,42.27596535,-71.15379897,1562169.36,300170.69
+dd2898e3-2b7b-f290-5dce-07e9041a4360,8/16/1966,X86887078X,Mr.,Terrell212,Lang846,,M,white,nonhispanic,M,Brookline,Norfolk County,,42.37303097,-71.17265246,1456576.27,4455.42
+14d700a7-1895-5ab4-d689-c8d810e8cf91,1/13/2015,,,Toni630,Volkman526,,,black,nonhispanic,F,Boston,Suffolk County,2126,42.28814163,-71.03468087,23163.62,9188.69
+da935269-aa7b-2023-2707-b8ef0fceb4c5,10/14/1942,X86942918X,Mr.,Fritz267,Johnson679,,M,white,nonhispanic,M,Boston,Suffolk County,2111,42.28801292,-71.14062731,2947761.04,202929.37
+d5f03e45-9858-b8df-eae4-064e2bfe6d55,11/19/1999,,,Ilana185,Turner526,,,white,nonhispanic,F,Gloucester,Essex County,,42.58064148,-70.6852206,135809.86,0
+0b7f23ea-7495-a0e2-7a4c-3e3cb414e1f6,4/17/1997,X29856824X,Mr.,Bradley693,Schuppe920,,,asian,nonhispanic,M,Boston,Suffolk County,2116,42.31893642,-71.03888127,625601.24,893.92
+8eff1108-a4f3-793d-d4ef-e6b8adf29b14,2/9/1991,X17988468X,Ms.,Vannesa928,Blanda868,,S,white,nonhispanic,F,Princeton,Worcester County,,42.44348098,-71.82818855,1078448.69,120474.44
+8a2a5671-f797-04ff-368a-0c012f7ddb6c,3/31/1994,X14168803X,Ms.,Augusta206,Kautzer186,,S,white,nonhispanic,F,Taunton,Bristol County,2718,41.8749205,-71.03679629,106805.26,143825.36
+3a58b7d3-3697-2d55-a49a-164fccdfdafe,4/28/1959,X65464124X,Mr.,Robt687,Streich926,,M,native,nonhispanic,M,Hopkinton,Middlesex County,1748,42.20662096,-71.57318013,1646923.24,76483.54
+11f5d8ba-5f63-9ed9-3f9a-7639b8233ee9,5/10/1966,X83669187X,Mr.,Reginald96,Russel238,,M,white,nonhispanic,M,Methuen,Essex County,1844,42.71689951,-71.19194758,1218173.54,18662.74
+d8e0ecee-c623-46e1-94ee-2863d0b49740,5/28/1980,X41154376X,Mrs.,Lesley194,Willms744,Zemlak964,M,white,nonhispanic,F,Waltham,Middlesex County,2452,42.32097663,-71.2610225,1230028.19,540488.78
+f05dedab-c91c-7900-2ac0-34ccf2390d6d,11/19/1999,X66407725X,Ms.,Bernice532,Schultz619,,,white,nonhispanic,F,Gloucester,Essex County,,42.60966374,-70.64831741,615633.97,427.68
+3c0daf0c-0b60-17b6-b683-3c61aef7d3cd,5/21/1972,X46309553X,Mrs.,Leisha308,Thompson596,Schneider199,M,asian,nonhispanic,F,Foxborough,Norfolk County,,42.01262487,-71.29436097,2024383.02,129036.05
+bcb7294a-2023-e66f-6618-370478a64bb8,9/21/1987,X18062804X,Mrs.,Magdalena964,Gamez720,Cordero852,M,white,hispanic,F,Chelsea,Suffolk County,2151,42.37348466,-71.03648745,1002388.59,891.65
+be5dd8b5-3266-f29b-c894-b6d360701842,10/31/2016,,,Leticia253,Rolfson709,,,hawaiian,nonhispanic,F,Tewksbury,Middlesex County,,42.56468984,-71.22882374,140942.51,404.8
+48a0dd8f-1d9b-9bc9-f425-66ed3450b297,5/7/2007,,,Pilar644,Osinski784,,,white,hispanic,F,Groveland,Essex County,,42.75204853,-71.00705874,420079.38,106.01
+76420fe5-1fd7-4bef-6900-a8d1d0e9d2be,1/8/2006,,,Jaye603,Strosin214,,,white,nonhispanic,F,Brockton,Plymouth County,2302,42.08327279,-70.99890471,994512.51,3345.08
+af373373-ae1e-d3aa-873a-77b6448d9d7b,1/30/2005,,,Ramona980,Hauck852,,,white,nonhispanic,F,Lowell,Middlesex County,1854,42.67737283,-71.27424669,478142.92,95.99
+b3fa50c6-7036-49ba-52b5-8e4ebe3b99db,8/31/1973,X44419961X,Ms.,Phyliss206,Purdy2,,S,white,nonhispanic,F,Bellingham,Norfolk County,2019,42.05665335,-71.49898763,1827883.09,13564.6
+46e166d3-deed-689c-484a-c937a2d07e66,11/13/1948,X82698988X,Mrs.,Clara183,Piña753,Cadena322,M,other,hispanic,F,Chelsea,Suffolk County,2151,42.37612913,-71.03149004,2684269.24,413586.58
+98925af5-6b8e-0bfd-91ce-0f5a3c92429e,1/24/1999,X26198138X,Ms.,Rosalia943,Carreón894,,,white,hispanic,F,Boston,Suffolk County,2122,42.32996736,-71.02303211,666245.36,356.6
+67584325-9843-ebbe-040e-b04aef45ce33,10/18/2017,,,Hugh686,Crist667,,,white,nonhispanic,M,Taunton,Bristol County,2780,41.91693622,-71.10985956,128882.21,0
+c2cdaad4-1b63-c20c-c604-98c7f96af2a8,12/30/1961,X36377966X,Mrs.,Harriette8,Kihn564,Lubowitz58,M,white,nonhispanic,F,Billerica,Middlesex County,,42.60953927,-71.27751615,1726776.71,265986.11
+fe45332a-ebfa-87d9-7036-53bc8306b35e,12/8/1978,,,Kenneth671,Weber641,,,white,nonhispanic,M,Ocean Bluff-Brant Rock,Plymouth County,,42.07670346,-70.65787333,66400.29,178414.41
+b6424895-82b5-c653-1b8f-52f7ba4ee3ee,6/2/1988,X80358040X,Mr.,Brett333,Romaguera67,,M,white,nonhispanic,M,Woods Hole,Barnstable County,2543,41.52034313,-70.80837511,836155.12,3276.99
+1624f3cc-9d2b-8ed8-d24b-75aa4c2591db,12/17/1976,X9711972X,Mr.,Jay242,Watsica258,,M,white,nonhispanic,M,Lowell,Middlesex County,1852,42.60217125,-71.29498737,1128655.65,2594.92
+103c986f-166b-3edd-1f76-884f88e5453f,4/25/1981,X80100387X,Ms.,Monika509,Stokes453,,S,asian,nonhispanic,F,Holliston,Middlesex County,,42.24219858,-71.48742254,1288959.93,215901.94
+c8b675de-76a5-96ed-c778-9d73bcf6cbe2,6/14/1975,,,Cyrus914,Hansen121,,,white,hispanic,M,Natick,Middlesex County,,42.23659387,-71.32783112,255735.87,0
+7c747494-fbb7-daee-5c74-11dcf6173cae,10/24/1964,X72079716X,Mrs.,Peggie783,Howell947,Glover433,M,white,nonhispanic,F,Boston,Suffolk County,2134,42.3030731,-71.13894638,124591.44,45056.39
+26119b93-c8a3-4a27-8d08-1981e048f4de,1/24/1999,X57446067X,Ms.,Julia241,Delgado712,,,white,hispanic,F,Boston,Suffolk County,2152,42.29962297,-71.1479568,639003.46,0
+6d769287-92a4-2ee5-9c0b-85fd72ae1e41,12/1/1962,X33393895X,Mr.,Thad495,Dickens475,,M,black,nonhispanic,M,Braintree,Norfolk County,,42.21994247,-71.01228815,1504774.09,39.44
+85779e5d-477f-c54c-3387-aa4504fcf4e7,1/4/1952,X1765957X,Ms.,Augustine565,Dicki44,,S,white,nonhispanic,F,Medfield,Norfolk County,2052,42.18648886,-71.28406263,1865233.24,498663.68
+2c6766b8-9e2e-4bf1-461c-e7bc88d615ed,8/5/1949,X77220060X,Mrs.,Elvie131,Goldner995,Huels583,M,hawaiian,nonhispanic,F,Woods Hole,Barnstable County,2543,41.45360931,-70.79544424,2067072.04,505069.87
+cf0ec568-c21d-caf8-c3bd-369c923cc4a5,11/9/2007,,,Clifford177,Koepp521,,,white,nonhispanic,M,Hingham,Plymouth County,,42.2409277,-70.91532586,383326.68,1429.71
+1ec7c2fd-0afb-660d-b498-409f56991605,5/3/2022,,,Gillian484,Leannon79,,,white,hispanic,F,Winchester,Middlesex County,1890,42.44471278,-71.1821025,5168.27,0
+63adf1d0-909d-5843-43ba-b920324c5b1a,7/4/1977,X86214835X,Mr.,Edgardo196,Boehm581,,S,white,nonhispanic,M,Fairhaven,Bristol County,,41.65145492,-70.83474721,141997.28,45166.17
+4e5d3e43-ccf3-ba74-1a55-32a186d2da61,8/20/1942,X20242586X,Mrs.,Argentina169,Ruecker817,Funk324,M,white,nonhispanic,F,Boston,Suffolk County,2122,42.35876886,-71.12239215,380481.31,1170602.18
+d57016ff-4a34-ca80-0369-aac0351ea2e5,12/21/1986,X87228979X,Mr.,Bertram873,Pacocha935,,M,white,nonhispanic,M,Everett,Middlesex County,,42.38900627,-71.01437239,885967.27,7223.25
+34ebf133-9425-705b-65e4-eb7e4029d2af,12/8/1978,X25799328X,Mr.,Brady998,Dach178,,M,white,nonhispanic,M,Ocean Bluff-Brant Rock,Plymouth County,,42.08992521,-70.61147073,150621.99,578767.63
+5ad59c11-afa8-a2e4-4878-2195c27f36aa,8/23/2009,,,Rod343,Walker122,,,white,nonhispanic,M,Lynn,Essex County,1940,42.5419107,-71.02962617,42642.21,30630.69
+1acaf472-3a85-50e9-7178-ba106b683ec0,3/25/1993,X36433112X,Mr.,Marcos263,Schinner682,,S,white,nonhispanic,M,Walpole,Norfolk County,,42.15721049,-71.29847319,724606.58,1258.24
+683141a8-3611-28bf-e215-e859a6f874ae,7/22/1987,X41213738X,Mr.,Óscar156,Vélez150,,M,white,hispanic,M,Dighton,Bristol County,,41.81180445,-71.19037982,922692.95,221.06
+5edd1a70-28ef-ee3b-f972-69eadba51046,9/19/2006,,,Chantal971,Trantow673,,,white,nonhispanic,F,Mansfield,Bristol County,,41.97405735,-71.23349913,544524.34,15.6
+caeac881-8012-3519-b47f-7d2f9d0cc221,10/27/2004,,,Shyla233,Ullrich385,,,white,nonhispanic,F,Milford,Worcester County,,42.19626618,-71.508685,438600.67,19
+0a6acf70-5cda-44a4-af5a-54af4ede9afe,2/28/2022,,,Afton574,Hane680,,,black,nonhispanic,F,Williamstown,Berkshire County,1267,42.67526765,-73.29619991,9836.98,0
+9bbf21d4-8393-4e72-5247-4e6f7d309ffc,9/22/1975,X58408981X,Mrs.,Linnie39,Ebert178,Walter473,M,white,nonhispanic,F,Amesbury,Essex County,1913,42.89886959,-70.93896904,2024638.93,179692.48
+1462adb6-0db8-6074-65a2-e24e20359874,11/21/1998,X18895404X,Mr.,Beau391,Pfeffer420,,,white,nonhispanic,M,Cambridge,Middlesex County,2142,42.40294113,-71.10416323,571657.2,947.82
+c0f86f5e-e144-1f74-3cf0-e3c703167b52,8/10/1977,X48950525X,Mr.,Alva958,Hickle134,,S,white,nonhispanic,M,Millis,Norfolk County,,42.15814581,-71.40273245,1116550.68,236.39
+537b4363-bd78-de79-4ad3-34051586d0c8,10/24/1964,X83665979X,Mrs.,Genoveva361,Morissette863,Parker433,M,white,nonhispanic,F,Boston,Suffolk County,2127,42.28621748,-71.07787409,244406.95,1068117.49
+2f4ddf4a-3619-2800-fdee-ff2e71208cd4,3/31/2002,X88054242X,Ms.,Breanna581,Dibbert990,,,white,nonhispanic,F,Boston,Suffolk County,2115,42.36132163,-71.0804309,491321.93,164444.25
+a87c0edb-d535-5ece-544b-1e70c4d681a2,3/23/1978,X59559338X,Mrs.,Faye439,Hamill307,Rowe323,M,white,nonhispanic,F,Andover,Essex County,,42.67325852,-71.16361891,1894847.04,308514.04
+4132e0f0-8627-6450-0ac0-040d518520e4,8/30/1997,X22229430X,Mr.,Spencer878,Grady603,,,white,nonhispanic,M,Fall River,Bristol County,2724,41.55555861,-71.10035985,70041.22,3074.52
+62256ad5-0dec-1394-9c00-4f5cdf493097,12/8/1978,X36588293X,Mr.,Jerry654,Dach178,,S,white,nonhispanic,M,Ocean Bluff-Brant Rock,Plymouth County,,42.1065554,-70.61938475,157932.17,226892.83
+d39330ef-0f8d-4e48-0184-6b39c66481f3,8/29/1995,X77674324X,Mr.,Federico589,Abeyta738,,,white,hispanic,M,Wilmington,Middlesex County,,42.56757635,-71.14161297,1256475.34,729.64
+287b3e0a-a3b3-27c7-b603-40a8082b8de2,7/8/1962,X77292165X,Mr.,Delmer311,Upton904,,M,other,nonhispanic,M,Boston,Suffolk County,2151,42.31522907,-71.0712741,1507934.66,20727.84
+45b57a98-e65d-4bf2-b075-c8aa8e7f80cd,7/29/1971,X20345687X,Mrs.,Elenore794,Kutch271,Berge125,M,white,nonhispanic,F,Haverhill,Essex County,1830,42.73678175,-71.09926288,210245.79,840475.76
+27159bd2-abf5-b836-554b-36648e943d1f,11/8/1966,X28824698X,Mr.,Emanuel231,Lesch175,,M,black,nonhispanic,M,Chelsea,Suffolk County,2149,42.39613423,-71.00118506,139651.08,8048.55
+97ddf823-ad97-ea1f-32f0-b286b0c3164c,9/9/2008,,,Barrett790,Spencer878,,,white,nonhispanic,M,Framingham,Middlesex County,1702,42.33306199,-71.46389671,43261.49,18647.88
+f1a05449-4016-6417-7578-9e356dd31d85,11/3/1981,X47315149X,Mrs.,Fonda178,Bruen238,Ratke343,M,white,nonhispanic,F,Mashpee Neck,Barnstable County,,41.59428057,-70.49604044,1282510.9,52105.94
+1847c0e2-c16b-7a8c-3d3e-7a0f125b16fd,4/17/1994,X33026925X,Ms.,Luna60,Haley279,,S,white,nonhispanic,F,East Longmeadow,Hampden County,,42.07442712,-72.50782325,546519.81,199.18
+a65ebcf6-43a3-c608-0a61-b4e9238e6e25,9/22/1975,X29235864X,Mrs.,Marica887,Mohr916,Swaniawski813,M,white,nonhispanic,F,Amesbury,Essex County,,42.88213447,-70.99576404,1609217.92,51556.58
+5684d8c0-3c48-4b17-7c93-3d29436f2ce0,10/27/1956,X46584998X,Mrs.,Coral377,Olson653,Williamson769,M,white,nonhispanic,F,Watertown,Middlesex County,,42.34978675,-71.17920366,312962.4,610575.99
+5ccb1f3f-5b31-0100-ef42-17ef8c7f0333,6/10/1990,X49476430X,Mr.,Sonny285,Rippin620,,S,asian,nonhispanic,M,Arlington,Middlesex County,2474,42.37289818,-71.21262862,1237106.9,1504.07
+aeec9e33-eae4-a806-3f3f-487209a71d19,5/28/1967,X27983112X,Ms.,Oralee226,Thiel172,,S,white,nonhispanic,F,Northwest Harwich,Barnstable County,,41.73823404,-70.11089028,232235.73,953524.76
+150b534e-77b0-cc5a-6e2b-baf90464d3f5,5/3/1974,X84601641X,Mr.,Don899,McDermott739,,M,white,nonhispanic,M,Monterey,Berkshire County,,42.19776788,-73.22467773,1209309.56,1975.93
+d8162c60-c15c-0b43-bbe2-58ff2e077607,1/12/1967,X17391082X,Mrs.,Maisie206,Daniel959,Jast432,M,white,nonhispanic,F,Whitman,Plymouth County,,42.05641789,-70.90691129,1752582.97,325385.19
+bc1ec8fd-5ada-3c0e-9b1a-74a2dc26d2f6,6/14/1975,X28751555X,Mr.,Scot349,Runte676,,M,white,hispanic,M,Natick,Middlesex County,,42.26850182,-71.35648427,1169869.12,4283.59
+044ce2c4-1e9f-0814-7d1a-6b614e289edb,11/20/1961,X43623516X,Mrs.,Dionna991,Pacocha935,Blick895,M,white,nonhispanic,F,Framingham,Middlesex County,1702,42.28763831,-71.41496885,2126467.68,48720.4
+be2d3455-9a2f-95ee-6b72-36c08c6f7d92,11/29/1949,X31788581X,Mrs.,Kristle148,Pollich983,Gleichner915,M,white,nonhispanic,F,Boston,Suffolk County,2121,42.3975552,-71.1034107,793469.46,659868.81
+16379221-1cf5-d1f3-da5e-2b5c69e707a9,4/28/2002,X62181723X,Ms.,Alfreda3,Rath779,,,white,nonhispanic,F,New Bedford,Bristol County,2746,41.70613684,-70.93126405,513818.72,457.43
+ae5bda07-8615-9109-2a26-209ef5aabdfa,8/7/1959,X79292077X,Mr.,Boyce638,Conn188,,M,white,nonhispanic,M,Holbrook,Norfolk County,2368,42.13083187,-71.04304914,1897168.79,27251.06
+af40e607-9473-73d8-a6b0-b5eae56a18d2,1/18/1999,X78788576X,Ms.,Leonore418,Jast432,,,white,nonhispanic,F,Somerville,Middlesex County,2143,42.40042042,-71.15695831,571814.86,3584.64
+9e66abf0-966a-91be-830d-4961308fc372,4/19/2022,,,Tarsha65,Maggio310,,,white,nonhispanic,F,Milford,Worcester County,1757,42.20690733,-71.48011,6791.28,0
+2720ea62-4c87-026f-8731-80a9a1dbc9e8,4/24/1998,X14513987X,Ms.,Bea654,Kulas532,,,white,nonhispanic,F,North Andover,Essex County,,42.6372817,-71.13900436,720061.3,17112.65
+fe6a47c2-74ee-7bf6-d34f-5c4169713153,7/4/2002,,Ms.,Cassie490,Fisher429,,,white,nonhispanic,F,Boston,Suffolk County,2130,42.38979559,-71.07320942,1146622.17,0
+82c8a6e5-0f21-bf63-cad4-e89d64d341cc,8/26/2013,,,Anton902,McCullough561,,,white,nonhispanic,M,Norwood,Norfolk County,,42.18058381,-71.15549215,219993.84,18880.29
+6ea51391-9d46-788e-5fc2-31e5f57cc225,5/27/1968,X8362033X,Mrs.,Clarita196,Schoen8,Feeney44,M,white,nonhispanic,F,Lowell,Middlesex County,1852,42.64660552,-71.28729266,373836.78,902371.01
+aff91841-5dfd-d7d4-9f65-148938424865,4/6/2001,X55222086X,Mr.,Louie190,Rippin620,,,black,hispanic,M,Revere,Suffolk County,2151,42.45723678,-70.94854406,72067.43,34908.27
+9ebbde86-7384-962f-c6f2-6dd14c173f03,10/5/1996,X77519007X,Mr.,Ahmed109,Walker122,,,black,nonhispanic,M,Leominster,Worcester County,1453,42.54047865,-71.82364626,623153.69,371.61
+e8889c25-031f-9445-f10c-43be31e05ccc,4/8/1994,X51371616X,Mr.,Alvin56,Kunde533,,S,white,nonhispanic,M,Springfield,Hampden County,1118,42.00629801,-72.53057144,711600.62,4049.78
+4ce00b43-b985-7f0d-682c-f3cd1364f106,10/25/1967,X51998538X,Mr.,Enoch803,Abbott774,,M,white,nonhispanic,M,Holliston,Middlesex County,,42.19196003,-71.47098829,1416538.41,3380.79
+5f55c533-5c20-ddbf-990e-de312a2ea9f6,2/24/2008,,,Retta782,Collins926,,,white,nonhispanic,F,Woburn,Middlesex County,1801,42.4864371,-71.19618944,345384.84,4519.59
+4b072636-a142-ed2d-d37e-987ae380cdd4,7/31/1991,X70099219X,Mr.,Sandy901,Casper496,,S,asian,nonhispanic,M,Hatfield,Hampshire County,,42.39491769,-72.64203939,985893.48,95833.96
+fb1144ff-1ff1-212d-1d34-d442c19d2601,3/20/1917,X54613009X,Mr.,Jewel43,Cremin516,,M,white,nonhispanic,M,Springfield,Hampden County,1118,42.12017129,-72.57478255,2609192.01,348060.46
+ebc60315-e1f1-40d7-222d-2aa10e0ebe62,1/17/2005,,,Louis204,Kris249,,,white,nonhispanic,F,Worcester,Worcester County,1545,42.28802481,-71.81970082,1026924.15,1458.41
+0f75171d-9f5e-ae95-39ae-0bfc98db290c,4/13/1951,X7389499X,Mr.,Anton902,Douglas31,,M,white,nonhispanic,M,Provincetown,Barnstable County,2657,42.09678922,-70.23278583,1943521.58,32669.46
+78d4a0d4-1a24-286b-a131-f4e30b3593f8,3/7/1995,X46922585X,Mr.,Stanford577,Morissette863,,M,white,nonhispanic,M,Raynham Center,Bristol County,2768,41.91119726,-71.02961739,675415.54,1551.64
+43700c94-f3dd-7fae-dc0b-310319640f66,1/25/1976,X62950550X,Mrs.,Yasmine182,Schroeder447,Olson653,M,white,nonhispanic,F,Newton,Middlesex County,2464,42.32795284,-71.19355216,1735100.44,639290.42
+8a283587-6eee-cb4c-a6a8-5d0a999b956d,1/7/1977,X10947832X,Mr.,Marcos263,Melgar516,,S,white,hispanic,M,Lowell,Middlesex County,,42.64112527,-71.29242782,1802657.47,5630.57
+bafe7811-794c-3c86-115c-e10a37259055,11/20/2006,,,Melodee943,Wiza601,,,white,nonhispanic,F,Littleton,Middlesex County,,42.56312775,-71.51017876,402751.29,55861.33
+9a28ff9e-382a-3fa9-c67e-fa00e02eff43,12/13/2003,,Ms.,Toby274,Mohr916,,,white,nonhispanic,F,Marion Center,Plymouth County,,41.7266429,-70.75324448,467910.56,950.84
+5e35cee7-10c3-7f01-dae0-05781288faf6,4/19/1920,X17046165X,Mr.,Kip442,Runolfsson901,,M,black,nonhispanic,M,Sandwich,Barnstable County,,41.68094351,-70.50427742,1766713.71,54011.54
+ddbdff9f-7765-8708-e6a1-5d9cf16f611e,6/19/1969,X3010610X,Mrs.,Danuta945,Gorczany269,D'Amore443,M,white,nonhispanic,F,Oxford,Worcester County,1540,42.06709111,-71.84778332,2025039.29,88236.92
+f5d27435-319a-1245-8e18-0472d7441e98,4/20/1976,X4452979X,Mrs.,Francoise850,Blanda868,Zboncak558,M,white,nonhispanic,F,Somerville,Middlesex County,2138,42.40650005,-71.09931089,1624470.11,133682.02
+4a8e3fec-afdf-cf70-fc1e-1b7ed5b9e123,11/29/1949,X45370040X,Mrs.,Aiko748,Cremin516,Hermiston71,M,white,nonhispanic,F,Boston,Suffolk County,2114,42.45390166,-71.04146234,1276156.17,647700.08
+61684a21-f808-27f9-856a-43efb84f8cba,3/14/1958,X16595126X,Mr.,Cesar434,Cole117,,M,white,nonhispanic,M,Randolph,Norfolk County,2368,42.17854572,-71.08860691,1733043.17,7553.96
+d76fc870-30e6-3ef5-f308-bd302969c039,8/8/1945,X35628869X,Mrs.,Gertrude228,Thompson596,Wuckert783,M,white,nonhispanic,F,Millbury,Worcester County,,42.20754564,-71.74617189,2191898.41,428311.93
+f9b07beb-6903-bb9c-c11c-6aaa67c6b73d,4/24/1956,X58383681X,Mr.,Jeffrey461,Greenholt190,,M,white,nonhispanic,M,Somerville,Middlesex County,2143,42.38840282,-71.11009668,2305858.12,226806.46
+7649d0a2-d3f0-0a8f-dc8b-579c90d7cf58,6/23/2005,,,Ethan766,VonRueden376,,,white,nonhispanic,M,Brockton,Plymouth County,2302,42.1213576,-70.92969884,433178.87,552.2
+7f24380a-0a67-6de0-dfee-89f603869dd0,4/4/1978,X47604383X,Ms.,Jamey282,Nienow652,,S,white,nonhispanic,F,Fall River,Bristol County,2747,41.69118306,-71.19513782,178835.71,567823.66
+e886a142-ca4c-de67-a9db-01c491bb6aa0,5/28/1955,X76881348X,Mr.,Darrin898,Russel238,,M,asian,nonhispanic,M,Watertown,Middlesex County,2472,42.38133429,-71.12977934,1624960.32,45206.92
+157d6cfd-1ccc-2064-775d-9a8085a3a4cc,11/28/1970,X87415935X,Mr.,Kasey569,Gleichner915,,S,white,nonhispanic,M,Quincy,Norfolk County,2169,42.30502319,-71.00089759,1313800.7,6907.8
+69310084-587f-8ce6-4361-27e79b6ef8c7,3/26/1964,X79968172X,Mr.,Oswaldo857,Collins926,,M,white,nonhispanic,M,Springfield,Hampden County,1151,42.18480096,-72.6075444,1433410.67,6777.41
+b6627d61-b91a-3932-31d4-249b0bb93bd5,8/12/1986,X62214522X,Mr.,Mitchel812,Gleichner915,,M,white,nonhispanic,M,Palmer,Hampden County,1080,42.17505647,-72.32496501,113121.36,41634.94
+abbeaaee-c8f3-c42d-3b73-235e1dbb0fce,2/22/1999,X77451290X,Ms.,Sydney660,Goodwin327,,,asian,nonhispanic,F,South Hadley,Hampshire County,,42.2273586,-72.58979657,631009.75,16613.24
+acdf5f03-7de3-fe52-2105-1d6b6cd0cd1b,9/7/1981,,,Shantay950,Shanahan202,,,white,nonhispanic,F,Lowell,Middlesex County,1852,42.62627811,-71.30644368,176407.2,0
+ff77e714-6f82-f21e-3787-a9c10e8cd7fa,8/27/1985,X85720208X,Mr.,Jaime666,Ibarra303,,M,white,hispanic,M,Worcester,Worcester County,1608,42.25479075,-71.80478135,1022693.66,35604.19
+9f80f0dd-fa2f-aa9d-e377-42c9e6cc9c8e,2/14/1969,X24586090X,Ms.,Georgene966,Leannon79,,S,white,hispanic,F,Medford,Middlesex County,2155,42.37373459,-71.13820017,1919262.05,197212.45
+06f9f44c-a41c-aa4b-ce57-cf4e3d78dc94,6/25/1975,X20358469X,Mr.,Brendon298,Mills423,,M,white,nonhispanic,M,Douglas,Worcester County,,42.0458489,-71.73170113,1229064.79,609.44
+03a19cce-a769-79c4-7bf2-fed333c868a6,9/14/1969,X68748028X,Mr.,Gerard367,Runolfsson901,,M,white,hispanic,M,Lawrence,Essex County,1843,42.73046126,-71.15618168,1332051.71,924.75
+3304320a-9dab-ef8a-6b78-6274dfb39db4,12/22/1939,X36181714X,Mr.,Dominic463,Cassin499,,M,white,nonhispanic,M,Andover,Essex County,,42.64209691,-71.20462235,2037503.45,69759.99
+93dcbc2a-9a62-0a2c-dc98-0b9a7b5f655a,4/9/1951,X53476549X,Mrs.,Season349,Willms744,Prosacco716,M,white,nonhispanic,F,Uxbridge,Worcester County,,42.0742218,-71.66784448,2313621.75,65341.53
+7ac5e1b2-4494-d90c-65c7-a57202e8c47e,3/20/1917,X62545384X,Mr.,Dallas143,Marvin195,,M,white,nonhispanic,M,Springfield,Hampden County,1104,42.12960754,-72.63357882,1719104.05,83691.88
+8d4283aa-e645-4c24-a18f-e9149baf5229,12/26/2005,,,Teddy976,Green467,,,white,nonhispanic,M,Ayer,Middlesex County,,42.56234166,-71.58200894,415431.87,15.6
+5a057f97-2fee-5fd5-5688-f31345487ef2,6/26/2018,,,Danny396,Spinka232,,,white,nonhispanic,M,Easthampton,Hampshire County,1027,42.32518628,-72.7189881,13424.64,21368.03
+51685293-eb75-1304-7fb7-0ee3679787c6,1/27/2001,X72338061X,Ms.,Alexia646,Haley279,,,white,nonhispanic,F,Belmont,Middlesex County,,42.36063345,-71.14221329,514361.81,572.23
+59c4eede-7840-0f91-6c1d-7a08c2860851,1/4/1965,X25399561X,Mrs.,Toccara373,Batz141,DuBuque211,M,white,nonhispanic,F,Peabody,Essex County,1940,42.57644575,-70.92238665,1853411.94,265155.91
+2e0137e5-cc6f-8b8b-73d3-2c24f964403b,4/9/1980,X42028358X,Mr.,Carmine137,Mayer370,,M,white,nonhispanic,M,Cambridge,Middlesex County,2472,42.39890975,-71.08717432,809943.19,42.98
+28195267-3465-ddb9-d1b0-2157f3758a4e,9/7/1981,X53839886X,Ms.,Jasmin506,Stehr398,,S,white,nonhispanic,F,Lowell,Middlesex County,,42.65800517,-71.36938712,1279684.79,413145.51
+2480a478-d533-eb72-585e-cff4fc2fa114,5/20/1993,X57744452X,Mrs.,Kimberley248,Hahn503,Oberbrunner298,M,black,nonhispanic,F,South Hadley,Hampshire County,,42.20925803,-72.57002542,774904.24,32260.09
+772ac8b3-71e9-9309-4ddb-732e1fa29bd4,11/10/1987,X37532769X,Mr.,Cecil300,Deckow585,,M,white,nonhispanic,M,Bedford,Middlesex County,1730,42.48307135,-71.29648399,901498.12,802.53
+02ad8738-069b-e4fd-49d4-c1d7b547d1f2,12/19/2014,,,Ignacio928,Adams676,,,white,nonhispanic,M,Methuen,Essex County,,42.71673804,-71.20619611,212735.81,630.16
+37fd77ab-df4f-e7c8-9151-2abe7550b177,6/13/1995,X4957642X,Mrs.,Erin498,Barrows492,Gutkowski940,M,white,nonhispanic,F,Cambridge,Middlesex County,2138,42.41272002,-71.1395246,799264.2,1789.08
+7432f2c5-e356-e038-5bea-7b09a54ebaf3,11/17/1919,,,Aaron697,Feil794,,,white,nonhispanic,M,Lynn,Essex County,1901,42.44199326,-70.94791072,58447.1,0
+94bffbf0-bc67-cf5e-1434-5f1fde9909e5,4/27/1964,,,Isaac321,Bartoletti50,,,white,nonhispanic,M,Holyoke,Hampden County,,42.18300294,-72.66323256,377891.41,4671.93
+ffb06db9-d804-f45c-769b-effbe710b6ae,11/4/1986,X62267542X,Mrs.,Gaye230,Simonis280,Kshlerin58,M,white,nonhispanic,F,Attleboro,Bristol County,2703,41.92611854,-71.32196897,1216124.91,96695.77
+80aed7a7-6925-3614-88fa-314a08b744c0,2/19/1973,X63718686X,Mrs.,Audra143,Williamson769,Little434,M,black,nonhispanic,F,Chicopee,Hampden County,1020,42.17125262,-72.51010629,1943138.28,200962.31
+9e5f89ec-b1f6-ce12-30b8-6f565d83b479,6/10/1999,X28505728X,Ms.,Robert854,Mraz590,,,white,nonhispanic,F,Worcester,Worcester County,1607,42.36839101,-71.82368082,87341.31,263322.92
+9c3e8529-852c-713e-e5f3-14222748fa6c,4/19/1920,X47663379X,Mr.,Issac619,Will178,,M,black,nonhispanic,M,Sandwich,Barnstable County,,41.73931872,-70.46406257,2479779.18,352486.77
+5969a046-32ef-f35a-faa0-370960b14756,1/13/1973,X49384027X,Mr.,Jesús825,Cervantes583,,M,white,hispanic,M,Marblehead,Essex County,,42.52266558,-70.83849308,1227955.78,578.9
+aa635049-0b36-3f4d-ff44-bb407bf49a3c,9/7/1981,X36400151X,Ms.,Alvera113,Hermiston71,,S,white,nonhispanic,F,Lowell,Middlesex County,,42.62828022,-71.28789455,2143341.5,269696.02
+eb2ae70e-e822-49ae-c5e6-59f42e4d146c,3/20/1917,X22603266X,Mr.,Rusty501,Smith67,,M,white,nonhispanic,M,Springfield,Hampden County,1109,42.09509574,-72.58022663,1369793.23,138900.61
+0ce45e1c-9165-fd48-a968-797c25896cde,11/3/2021,,,Martin117,Will178,,,white,nonhispanic,F,Peabody,Essex County,1960,42.56645307,-71.03337131,24165.43,82.52
+eb98d03a-8cdd-e25e-0882-7a9f74f9cb1a,9/6/2007,,,Steve819,Lakin515,,,white,hispanic,M,Saugus,Essex County,1906,42.51177664,-70.99812565,555613.01,5055.19
+094042a7-fe15-8d6e-6a58-32e611c0c209,3/29/2004,,,Brett333,Koch169,,,white,nonhispanic,M,Haverhill,Essex County,1830,42.77380323,-71.16122888,355967.14,0
+836cf5d1-eed5-8310-72b6-236e27b5677e,6/4/1972,X68682430X,Ms.,Morgan564,Treutel973,,S,white,nonhispanic,F,Methuen,Essex County,1841,42.77331561,-71.20655815,205240.27,849870.27
+edefbf80-1e55-1ee3-73e0-46b122c11675,3/24/1989,X76902513X,Mrs.,Lauren941,Waters156,Kessler503,M,asian,nonhispanic,F,Norwood,Norfolk County,2090,42.15444827,-71.17699684,895245.9,252634.04
+fae97811-de17-eb06-afa7-589d66eefcac,4/27/1964,X4968160X,Mr.,Bruce167,Oberbrunner298,,M,white,nonhispanic,M,Holyoke,Hampden County,1040,42.18212202,-72.67106442,1713044.46,5633.65
+9dd8cf32-cfc1-a1fe-6d1e-770eb2dbf92e,11/23/1953,,,Porter490,Lynch190,,,white,nonhispanic,M,Marshfield,Plymouth County,2050,42.11803084,-70.74680325,48833.98,396.94
+4f612cba-e656-a2ea-03df-915a30de100b,3/29/2004,,Mr.,Kenneth671,Wunsch504,,,white,nonhispanic,M,Haverhill,Essex County,1835,42.79842942,-71.13104879,501553.11,5905.22
+0e25dac6-3cb7-b0ad-a9b8-2ed6cb820a98,12/9/1967,X39849701X,Mrs.,Lily490,Schultz619,Becker968,M,white,nonhispanic,F,Pepperell,Middlesex County,1463,42.68461352,-71.57199668,1889973.17,565845.53
+7b5d52f8-d30f-6c5f-a61b-a0e34c510104,1/21/1971,X41436878X,Mr.,Noah480,Brown30,,S,white,nonhispanic,M,North Reading,Middlesex County,,42.56613632,-71.08691696,1474235.44,32706.05
+2ea67bf6-7e85-fcb6-367c-10de00b177df,12/29/1975,X22287809X,Mrs.,Daniel959,Bechtelar572,Von197,M,white,nonhispanic,F,Norton,Bristol County,,41.99651995,-71.2194338,2055882.89,444473.07
+e9389a51-8654-987a-d1d2-c3190d3e438d,3/20/1917,X73617822X,Mr.,Wilbur107,Brown30,,M,white,nonhispanic,M,Springfield,Hampden County,1109,42.15800387,-72.59380348,1268829.89,10345.07
+895276a2-7790-5b9b-990b-ea8119456ee2,6/24/1983,X19045926X,Ms.,Chantay958,Altenwerth646,,S,white,nonhispanic,F,Hanson,Plymouth County,2341,42.00982208,-70.85953982,1867169.36,164212.19
+68b1a316-b5b7-9512-8190-7e90cd7f5980,11/17/1919,X81309751X,Mr.,Merlin721,Volkman526,,M,white,nonhispanic,M,Lynn,Essex County,,42.44506049,-70.93413587,2281235.7,11560.45
+3aa5b3d6-4142-ceaf-23a3-50ce1c8d5deb,10/16/2004,,,Christian753,Toy286,,,white,nonhispanic,F,Natick,Middlesex County,,42.32621187,-71.36878099,455815.39,2951.69
+340e08ee-fc63-1f3a-a185-4f0760ceee03,5/17/1942,X73337279X,Ms.,Johana303,Connelly992,,S,white,nonhispanic,F,Peabody,Essex County,1940,42.56460883,-71.00540099,2099911.27,177956.16
+910b5f7b-abc7-f4e1-6651-93e775584e86,6/11/1977,X11910478X,Mrs.,Tanisha724,Gerlach374,Wisoky380,M,white,nonhispanic,F,Northampton,Hampshire County,,42.32085892,-72.70286563,2235876.01,96445.61
+7faa3329-9bcd-1ccb-cebb-7f4cdd93a736,9/15/1980,X36094783X,Mr.,Ryan260,Tromp100,,M,white,nonhispanic,M,Amesbury,Essex County,,42.86644817,-70.93932953,1017916.25,627.04
+72f4e5af-0e70-8658-e2e7-2c70914e30be,7/23/1951,X19222109X,Mr.,Demarcus108,Kunze215,,M,white,nonhispanic,M,Newton,Middlesex County,2464,42.33347599,-71.2152122,2463869.77,18024.48
+53703f62-2048-e98d-93ef-a5643c9686d5,11/23/1953,X10662266X,Mr.,Dominique369,Rohan584,,M,white,nonhispanic,M,Marshfield,Plymouth County,,42.08225923,-70.68602012,2059474.83,7014.22
+d7beba94-3bb2-3097-8a6a-62fc9171f97f,1/19/2016,,,Dewey930,Runte676,,,black,nonhispanic,M,Boston,Suffolk County,2121,42.37888783,-71.08327262,206197.43,847.24
+ca5089e8-5cac-48d8-efce-bfcab04e9f92,1/23/1966,X38774229X,Mrs.,Bula88,Fadel536,Stroman228,M,white,nonhispanic,F,Mashpee,Barnstable County,,41.59436049,-70.50297124,2285133.69,306492.45
+ec97fb2e-45af-ca3d-28d7-79f906f5f9da,1/11/1990,X88004688X,Mr.,Johnny786,Hintz995,,S,white,nonhispanic,M,Holyoke,Hampden County,,42.25163083,-72.59851858,833381.55,810.32
+381b9954-1943-f9ce-7f04-e8d132a43520,8/4/1992,X23341037X,Mr.,Pete38,Zieme486,,M,black,nonhispanic,M,Methuen,Essex County,1841,42.76423573,-71.21837217,736383.11,320.37
+d07db4a8-367d-b57f-a19e-4eb0dbf8c616,1/14/2019,,,Randal152,Grant908,,,white,nonhispanic,M,Ipswich,Essex County,,42.7391331,-70.85674215,235390.83,401392.35
+d1a2e427-bbb6-2c93-7626-8666226faa05,5/21/2021,,,Clorinda310,Bartell116,,,white,nonhispanic,F,Westfield,Hampden County,,42.10140255,-72.78237061,35222.31,240.6
+58f705d7-ad02-cac6-c345-078d1c1848e1,4/19/1920,X21857430X,Mr.,Lenard338,Boehm581,,M,black,nonhispanic,M,Sandwich,Barnstable County,2563,41.68005007,-70.49895161,2302618.27,272835.48
+f906f370-214f-d317-0762-cf678c0908ec,6/11/2015,,,Maricarmen445,Linares712,,,white,hispanic,F,Chicopee,Hampden County,1020,42.22086352,-72.58058776,14746.17,0
+900eb25b-4091-601d-cb5d-06b6fae7ae2e,10/21/2012,,,María Luisa888,Benítez559,,,hawaiian,hispanic,F,Boston,Suffolk County,2467,42.31820752,-71.07372144,241203.69,0
+5282ae7b-4b8c-de72-5bd4-68ee792e7f8c,10/15/1973,X23102555X,Mr.,Jefferson174,Becker968,,M,white,nonhispanic,M,Chelmsford,Middlesex County,,42.59483613,-71.36187106,1196635.62,2107.49
+01c5aecb-b8ff-ee3c-7159-666949606e9b,4/6/2020,,,Patricia625,Villalobos491,,,white,hispanic,F,North Andover,Essex County,,42.66486433,-71.09560306,60353.73,1762.04
+7b0f5fb4-b25e-1a06-b883-8e36dcc15032,2/6/1957,X4856743X,Mr.,Devin82,Zieme486,,M,white,nonhispanic,M,Milton,Norfolk County,,42.213247,-71.0455652,223828.13,168681.86
+6a7470c0-18fd-b1b2-3d03-320fae17dfbd,3/20/1917,X10586634X,Mr.,Alexander630,Thompson596,,M,white,nonhispanic,M,Springfield,Hampden County,1106,42.12580859,-72.55865924,1553872.66,179526.39
+e6e8441b-66ef-0514-1100-cfe6292ffbee,3/6/1999,X3684555X,Mr.,Rod343,Feil794,,,white,hispanic,M,Salem,Essex County,1970,42.50934378,-70.90762956,73516,21203.09
+9ea76834-f407-5b68-964d-a8f999f71167,2/20/1959,X32865051X,Mr.,Donte636,O'Keefe54,,M,white,nonhispanic,M,Uxbridge,Worcester County,,42.02893801,-71.61268141,1632646.57,9094.54
+daca6267-d22d-2371-0ec8-295350cb541d,11/17/1919,X17932408X,Mr.,Leonel449,Legros616,,M,white,nonhispanic,M,Lynn,Essex County,1905,42.49708851,-70.92180651,1406338.81,8827.66
+5002d542-ea6e-35f9-12f5-c3991a60a3e2,5/31/1998,X23155605X,Ms.,Sue491,Swaniawski813,,,white,nonhispanic,F,Weymouth,Norfolk County,,42.17464715,-71.00152066,981371.65,8249.73
+ee7e718b-b150-d88b-8ebb-c371491da907,6/14/1955,X50634688X,Mr.,Edward499,Beatty507,,M,white,nonhispanic,M,Barnstable,Barnstable County,2647,41.66770519,-70.36873216,1644508.76,3741.88
+cf40b075-dfc0-ac13-41d0-652bf123cbaa,11/2/1981,X24835686X,Mr.,Daniel959,Córdova800,,S,white,hispanic,M,Cambridge,Middlesex County,2472,42.39318952,-71.13852322,1051439.31,651.29
+1afabae2-7c80-e6b8-820e-5d9f7d5e1169,4/29/1990,X58864930X,Mrs.,Saturnina961,Stroman228,Russel238,M,white,nonhispanic,F,Middleborough Center,Plymouth County,,41.89580822,-70.88023817,1152770.89,114349.22
+aac8b4ad-8103-220c-b0b1-7d967f4f6410,9/26/1968,X44193269X,Mr.,Dominique369,Haag279,,M,white,nonhispanic,M,Needham,Norfolk County,2494,42.2537516,-71.23643897,1449912.06,31462.87
+3eee09dc-cb0f-1f25-0967-cbe5ceb45005,5/16/1966,X3819602X,Mrs.,Abbie917,Bahringer146,Miller503,M,white,nonhispanic,F,Sandwich,Barnstable County,2563,41.71007981,-70.5016488,1716072.71,506690.32
+902ed811-edef-919b-1f94-87de4bfe5e68,8/12/2000,X8366442X,Mr.,Lucas404,Rascón630,,,white,hispanic,M,North Andover,Essex County,,42.67571117,-71.04398053,556335.15,5396.89
+4658437f-5730-16f1-857d-46d80d28a34a,6/8/1972,X62052323X,Mr.,Mateo562,Ochoa950,,M,white,hispanic,M,Boston,Suffolk County,2110,42.39777802,-71.10688747,1343946.96,13651.52
+b7eac647-5df5-606a-6ee7-d25badc13846,8/3/1957,X89441449X,Mr.,Dominique369,Upton904,,M,white,nonhispanic,M,Falmouth,Barnstable County,2540,41.57985992,-70.63460176,1725896.94,32248.21
+9d0b3bf5-0104-0411-3f4a-9609374d4b0b,11/17/1919,X11184124X,Mr.,Elvin140,King743,,S,white,nonhispanic,M,Lynn,Essex County,1904,42.51005687,-70.9710385,1287964.16,18296.8
+e364bfaf-16af-3fc5-041f-decd9e0f81a1,5/30/2021,,,Trent525,Medhurst46,,,white,nonhispanic,M,Lynn,Essex County,1902,42.47518329,-70.99224858,32900.49,107.63
+65761fa6-8bef-6cca-8d6f-296dbba2505d,5/11/1912,X55054816X,Ms.,Angelyn934,Eichmann909,,S,white,nonhispanic,F,Brockton,Plymouth County,,42.15295017,-70.93172884,1779749.21,729334.38
+f74a16e7-39f9-4926-92c6-67423174cbc8,3/20/1917,X54895145X,Mr.,Royal919,Kassulke119,,M,white,nonhispanic,M,Springfield,Hampden County,1013,42.15175958,-72.57193809,1285393.08,22304.65
+9f945291-7990-07bb-3007-5e336b689720,11/18/1994,X48583173X,Mr.,Rocco842,Berge125,,M,white,nonhispanic,M,Boston,Suffolk County,2135,42.31308807,-71.0622317,696243.09,40256.79
+15ba9404-bca8-adbc-248d-07b5afd08623,10/19/2005,,,Chang901,Cronin387,,,white,nonhispanic,M,Sandwich,Barnstable County,,41.72934558,-70.5116587,415052.81,965.49
+90ba6d2d-72b7-ff1c-2acd-e2bb342938a4,5/1/1966,X58487224X,Mrs.,Lucille738,Stehr398,Dare640,M,white,nonhispanic,F,Methuen,Essex County,1841,42.76096898,-71.21166979,1789977.29,1018294.89
+db3fb776-a1c8-751b-09a9-0c7aae32bc77,1/25/1993,X34792289X,Mr.,Wilburn655,Cremin516,,M,white,hispanic,M,Arlington,Middlesex County,2474,42.40403488,-71.1422469,770432.08,1444.51
+9943ff99-16cd-ec24-e585-45e40b547b3d,2/6/2017,,,Cristie97,Franecki195,,,white,nonhispanic,F,Norwell,Plymouth County,,42.21223732,-70.81769289,103399.56,1341.67
+fdebd613-4b5c-6080-de9b-6892fed9bd96,4/19/1920,X45430110X,Mr.,Oswaldo857,Wilderman619,,M,black,nonhispanic,M,Sandwich,Barnstable County,,41.76221064,-70.47068434,2475224.5,357075.32
+fde7879e-c8f5-977f-6071-369277694de4,3/16/1999,,,Brendan864,Beatty507,,,white,nonhispanic,M,Whitinsville,Worcester County,1588,42.15579887,-71.64655398,56770.71,0
+74a1a0a0-3240-27ed-b8c2-c190226ed884,10/22/2021,,,Franklin857,Frami345,,,white,nonhispanic,M,Dracut,Middlesex County,,42.65739731,-71.31280706,19295.74,0
+64900ab5-f33a-c0de-210a-2e5afabffb3a,2/6/2017,,,Catalina187,Crist667,,,white,nonhispanic,F,Norwell,Plymouth County,,42.15606733,-70.81575507,135577.08,325
+1e5ce2d3-2eb0-94a1-e51e-32661c576316,6/19/1967,X54248277X,Mrs.,Coreen424,Mills423,Huels583,M,white,nonhispanic,F,Medford,Middlesex County,2155,42.45454966,-71.06799896,1626470.6,251.05
+8329fb8b-c196-6786-b264-10648b1dfd1a,4/19/1953,X37046899X,Mr.,Stuart913,Hoeger474,,M,white,nonhispanic,M,Newton,Middlesex County,2462,42.34195036,-71.23758498,1960661.35,17580.68
+0b6ae028-931d-b26b-68e5-86bcba70c457,6/26/1968,X69361008X,Mr.,Chad48,Pouros728,,M,asian,nonhispanic,M,Malden,Middlesex County,2148,42.43654106,-71.11715218,173078.51,81669.12
+356dbc49-7563-753b-ad28-e5375221ca4f,5/15/1986,X69101048X,Mr.,Guadalupe206,Jenkins714,,M,white,nonhispanic,M,Middleborough,Plymouth County,,41.84548679,-70.87697829,928321.88,17056.05
+2cbe0631-fe61-57f5-9657-a8cf9eb706d2,3/16/1999,X53491921X,Mr.,Aron520,Hickle134,,,white,nonhispanic,M,Whitinsville,Worcester County,1588,42.12799546,-71.62283589,1035369.37,109038.92
+688f34e5-12ab-575a-81d1-8add60ce8669,7/8/1957,X55124117X,Mrs.,Patty600,Brakus656,Ziemann98,M,white,nonhispanic,F,Boston,Suffolk County,2126,42.35077012,-71.0518214,2351589.31,7862.43
+f7ca83fe-b8d7-60c5-7e4f-1e439e2445f4,12/25/2007,,,Milo271,Balistreri607,,,white,nonhispanic,M,Newton,Middlesex County,2467,42.31907178,-71.18999952,642839.4,351.85
+b9795ade-b091-52b3-a2e6-f348eb61405b,5/1/1966,X61083681X,Mrs.,Liliana922,Lockman863,Osinski784,M,white,nonhispanic,F,Methuen,Essex County,,42.76796102,-71.17220417,1503363.83,16518.13
+bfaa29fb-4dbf-f463-b9b5-7258ea45ee2d,5/1/2020,,,Yuki258,Adams676,,,white,nonhispanic,F,Townsend,Middlesex County,,42.67778245,-71.67736668,61881.17,240.6
+bd3616b6-4ab8-c307-860a-9edacb20dd54,7/12/1992,X5243988X,Mrs.,Latricia419,Haley279,Rippin620,M,white,nonhispanic,F,Dartmouth,Bristol County,,41.59561191,-70.93253515,1083086.47,206103.2
+5ec87e87-79b6-db72-ae87-3bfb2726123c,2/20/1989,X36841859X,Mr.,Antone63,Bartoletti50,,M,white,nonhispanic,M,Marlborough,Middlesex County,,42.39216352,-71.55880677,1587583.24,24411.56
+c67caaf6-9b8a-912a-da37-fe3e039bf520,3/7/1970,X4926028X,Mr.,Brice635,Effertz744,,M,white,nonhispanic,M,Methuen,Essex County,1841,42.7627929,-71.14635303,1447876.32,3380.81
+b677ed41-6b78-34b9-abb4-ad530f369076,12/10/2011,,,Gerardo48,Aguirre875,,,white,hispanic,M,Chelmsford,Middlesex County,,42.63562727,-71.37596396,255748.37,2949.54
+dc1cc49b-ad2a-81f6-47b2-34886b288b2a,8/7/1997,X28680205X,Ms.,Christie481,McClure239,,,white,hispanic,F,Boston,Suffolk County,2215,42.35404651,-71.04266073,736080.46,279298.7
+fdbde3a2-73de-ffac-6b69-f7fd8907457b,1/22/2001,X25606063X,Mr.,Robbie31,Simonis280,,,black,hispanic,M,Springfield,Hampden County,1199,42.11393346,-72.52076425,69497.25,35667.05
+54610f09-1ff5-59fe-02ad-b87b7953a0d3,5/26/1974,,,Pa577,Mohr916,,,white,nonhispanic,F,Rockland,Plymouth County,,42.09398171,-70.85953699,52202.77,0
+f1f41eae-a9c1-e64f-a2ea-fb9c39301069,6/22/2018,,,Cathi439,Effertz744,,,white,nonhispanic,F,Methuen,Essex County,,42.71765239,-71.18977176,9067.34,0
+62273079-3688-d41b-31f2-d654d6501949,5/20/1981,X61759847X,Mr.,Cleveland582,Crist667,,M,black,nonhispanic,M,Kingston,Plymouth County,,41.95396846,-70.78332785,1025552.58,4844
+67f6fc99-fbe8-9706-f503-958df90205cd,11/17/1919,X5198282X,Mr.,Horacio317,Kub800,,M,white,nonhispanic,M,Lynn,Essex County,1940,42.43020977,-70.91516797,1896839.01,115706.04
+b93a9ee8-c668-0707-396e-0d242b2d3d9a,4/1/1978,X36085362X,Mrs.,Antonetta450,Ledner144,Littel644,M,asian,nonhispanic,F,Springfield,Hampden County,,42.13026445,-72.5772498,1421849.08,258339.27
+a9c774e1-e601-c2d4-fd00-b228b3c60b29,5/11/2011,,,Jarrett354,Heller342,,,black,nonhispanic,M,Chelsea,Suffolk County,,42.44485642,-71.07038523,273835.74,0
+2a347e87-d9e4-d041-fc42-ddc9ee399bf8,12/23/1916,X3190527X,Mrs.,Leatha675,Wuckert783,Hoeger474,M,white,nonhispanic,F,Lawrence,Essex County,1843,42.72928484,-71.13562266,1823671.13,244985.79
+fc5ddd20-730e-8d90-0dab-832b79e324f9,2/3/1993,X33852786X,Mrs.,Sharan181,Daugherty69,Runolfsdottir785,M,black,nonhispanic,F,New Bedford,Bristol County,2744,41.59012936,-70.96401578,1106422.21,437820.37
+7906c7ee-0bd2-4c52-308e-5d4aca690ffb,5/25/2000,X5264963X,Ms.,Tierra831,Douglas31,,,asian,nonhispanic,F,Reading,Middlesex County,,42.57406811,-71.15507544,1175763.14,118709.05
+e1586ffb-a7e5-78fb-6f0b-482bc65ad311,12/30/1991,X68769644X,Mr.,Eloy929,Spinka232,,M,asian,nonhispanic,M,Billerica,Middlesex County,,42.55411996,-71.27365137,803548.55,21995.2
+feb5792b-eee8-e2ad-f9ae-1bc5e5bc87d5,3/20/1917,X85007630X,Mr.,Nathan164,Stamm704,,M,white,nonhispanic,M,Springfield,Hampden County,1119,42.01553247,-72.57179169,1612419.84,7581.32
+2689c5f0-ac9d-94c7-98d7-5e8d44a6ceef,11/6/2019,,,Drusilla108,Sawayn19,,,white,nonhispanic,F,Methuen,Essex County,1841,42.78216005,-71.19983649,62522.59,2476.8
+e82630f0-ce1d-0fdd-908d-d1a5e4cc596a,6/23/1948,X14273755X,Mrs.,Sherilyn598,Bosco882,Pfannerstill264,M,white,nonhispanic,F,Northampton,Hampshire County,1060,42.28727784,-72.64215873,881017.21,955120.97
+520ebec9-1ab0-1a0c-dee1-1930d9b08e46,5/26/1974,X26361163X,Mrs.,Armandina361,Hills818,Hayes766,M,white,nonhispanic,F,Rockland,Plymouth County,,42.12884276,-70.8840045,708870.16,0
+af3833d7-2dd8-9ce9-386a-60d342b08303,10/9/1970,X17143616X,Mr.,Rafael239,Longoria249,,M,white,hispanic,M,Maynard,Middlesex County,1754,42.44313739,-71.48859346,1230464.1,199303.89
+dd24f9c6-fd33-1e50-e2a1-452a01d29115,12/23/1939,X72870518X,Ms.,Rasheeda241,Stracke611,,S,asian,nonhispanic,F,Boston,Suffolk County,2113,42.46743287,-70.9631914,2153991.66,673259.47
+9ecb442b-a67c-b200-aa6b-7a0cf06fd054,5/14/2008,,,George991,Beatty507,,,white,nonhispanic,M,Attleboro,Bristol County,2703,41.86040834,-71.36432316,167009.26,0
+4f07ab53-a919-a9d6-22d2-7bbefb6c3b07,2/19/1984,X80398560X,Mr.,Thomas756,Miller503,,S,white,nonhispanic,M,Brockton,Plymouth County,2301,42.07133846,-70.95592373,1072245.25,2021.44
+630e421a-903f-dd64-7dc2-d604dea7d2c1,6/10/1984,X4402445X,Mrs.,Eliza161,Boyle917,Koepp521,M,white,nonhispanic,F,Boston,Suffolk County,2135,42.33830706,-71.06663609,2132679.63,42662.03
+92a75a8a-4dfa-1cf9-3320-86c5a26620d5,2/17/1961,X28821526X,Ms.,Willow678,Waters156,,S,white,nonhispanic,F,Brockton,Plymouth County,,42.05521876,-71.09116057,650754.29,340683.43
+93127f7e-99c4-fcc4-ea44-58f17afdb1ef,9/27/1966,X75118504X,Mr.,Fredrick998,Rath779,,M,white,nonhispanic,M,Attleboro,Bristol County,2861,41.94623574,-71.27263451,2139473.8,26758.77
+ce1ac3b6-1321-e1d9-b26e-c5c9c04bbf56,10/9/1970,X82208765X,Mr.,Andrés117,Miramontes145,,M,white,hispanic,M,Maynard,Middlesex County,,42.40832064,-71.47331454,1288384.49,2936.36
+52c5a6ae-56ff-0b2a-ed86-a9a9b2f35e08,11/11/1988,X83334466X,Mr.,Werner409,Bashirian201,,M,white,nonhispanic,M,Holbrook,Norfolk County,2368,42.11284041,-71.00235448,900824.64,30623.36
+21ac0c18-36a3-df29-3f5a-5b8c61bc01b3,3/16/1980,X53741967X,Mrs.,Paris331,Reichel38,Balistreri607,M,white,nonhispanic,F,Lynn,Essex County,1906,42.50138231,-70.929387,1424818.55,47902.88
+c116e953-1f56-deb0-f7df-6b6b1347e030,11/17/1919,X84979682X,Mr.,Fernando603,Muller251,,M,white,nonhispanic,M,Lynn,Essex County,1902,42.45952386,-71.01968737,1923614.83,117694.88
+1409b5d4-7798-bcf7-1cf8-6732ab6fa2ea,11/29/2016,,,Ela754,Welch179,,,white,nonhispanic,F,Pepperell,Middlesex County,1463,42.66285989,-71.5698031,126517.6,138
+46c90f72-11f9-3d1c-ed72-bdd358b4ada2,7/13/1986,X10238738X,Mr.,Maximo817,Mayert710,,M,white,nonhispanic,M,Newton,Middlesex County,,42.2999427,-71.23721979,952834.12,3768.23
+2f02fafa-6e3c-2ad4-bfb9-710b9326ab91,7/9/1996,X19803890X,Ms.,Astrid395,Shanahan202,,,white,nonhispanic,F,Malden,Middlesex County,2148,42.38053858,-71.03919378,777542.33,9889
+a36dda2c-f1e5-7abf-8bc7-8b22387b4bf6,12/23/1916,X63159123X,Mrs.,Salina386,Gerhold939,Moore224,M,white,nonhispanic,F,Lawrence,Essex County,1843,42.73475291,-71.19762122,3498995.87,438588.35
+33d072fb-1982-50e2-1e65-08c542ebfcfd,1/7/1955,X66438535X,Mr.,Alfonzo975,Mraz590,,M,white,nonhispanic,M,Franklin,Norfolk County,,42.11294721,-71.40018532,1832705.07,29984.33
+442c484a-f5bc-af99-be38-48297a0b47c9,7/7/2004,,,Svetlana462,Metz686,,,white,nonhispanic,F,Boston,Suffolk County,2127,42.39032031,-71.03666137,466611.73,2866.52
+c5a66ca5-b526-83d7-7790-5e7abaaf1650,1/15/2001,X35703263X,Ms.,Roxanne257,Marks830,,,white,nonhispanic,F,Haverhill,Essex County,1832,42.83621958,-71.07549392,571317.63,116.98
+98a3b034-db31-29a9-ec2d-cddfca8d6f77,1/28/1960,X54632683X,Ms.,Elisabeth967,Denesik803,,S,black,nonhispanic,F,South Yarmouth,Barnstable County,2664,41.63349963,-70.17478601,1821499.63,243003.44
+206cf693-27e6-434d-407b-5cd314789d05,3/31/1993,X86298328X,Ms.,Margurite588,Osinski784,,S,white,nonhispanic,F,Sutton,Worcester County,,42.17484327,-71.70779557,1012856.82,241760.1
+05f976a1-3075-1ef2-f3c5-23911ee51642,2/11/1991,X38178452X,Mrs.,Georgeann302,O'Connell601,Jacobi462,M,white,nonhispanic,F,Boston,Suffolk County,2111,42.28390538,-71.17371945,1176985.49,9061.27
+02157a26-14b7-ab10-84d2-b988cf925681,5/14/1964,,,Dannielle300,Reichert620,,,white,nonhispanic,F,Boston,Suffolk County,2203,42.28552488,-71.11464557,28835.78,0
+df271fb2-e233-99fc-209f-1fe4cabe0d33,5/23/1969,X28854200X,Mr.,Heath320,Windler79,,M,white,hispanic,M,Georgetown,Essex County,,42.68305137,-71.00937394,1295436.92,11936.99
+555f30b9-8fca-d89f-e632-4c1432343b58,12/31/2004,,,Lazaro919,Greenfelder433,,,white,hispanic,M,Haverhill,Essex County,1830,42.83708648,-71.00879337,608393.97,1317.45
+b6476d90-5a4a-9f02-2b8e-626e5ca9d676,6/28/2012,,,Marcelo725,Hansen121,,,white,nonhispanic,M,Barnstable,Barnstable County,2637,41.69119087,-70.26516752,23057.07,0
+e4d08648-ef2c-2096-c8ff-b31c0c8aa114,3/20/1917,X89649196X,Mr.,Sonny285,Bechtelar572,,M,white,nonhispanic,M,Springfield,Hampden County,1020,42.10399534,-72.54128768,3115535.3,396856.71
+daea212e-c9de-4e03-34ef-83c8b57168df,6/3/2014,,,Rina274,Schmidt332,,,white,nonhispanic,F,Attleboro,Bristol County,2703,41.96006264,-71.24905347,25533.94,9574.44
+2f24d2be-18d2-a5c3-4f26-34f3412997de,9/24/1984,X63108569X,Mr.,Adan632,Spencer878,,M,white,nonhispanic,M,Melrose,Middlesex County,2176,42.50410564,-71.10648996,118505.54,24614.52
+8ed0c38f-356c-5ead-8216-46460a33da4e,12/23/1939,X46916728X,Mrs.,Avis183,Olson653,Hilll811,M,asian,nonhispanic,F,Boston,Suffolk County,2136,42.31166325,-71.04014216,2915107.34,756012.57
+4279e3ed-0f96-7dc5-1081-b88047cd2940,12/8/2007,,,Thomasine260,Beer512,,,white,nonhispanic,F,Bridgewater,Plymouth County,,42.00763912,-70.96082881,612409.59,6465.98
+a9ad347c-b27b-865c-87f7-6f61c85afd68,7/30/1969,,,Dessie725,Cassin499,,,white,nonhispanic,F,Fall River,Bristol County,2790,41.71956657,-71.15744211,411799.66,474.76
+bd15c314-85b1-cb65-3acc-6bf5d389d611,11/27/1962,X20437358X,Mrs.,Carolynn568,Littel644,Ankunding277,M,white,nonhispanic,F,East Longmeadow,Hampden County,,42.10838465,-72.52074247,2408395.95,356221.48
+f8fd0703-b1f8-c62d-d1c8-52d3e985d693,3/10/2020,,,Gwenn701,Pollich983,,,white,nonhispanic,F,Boston,Suffolk County,2132,42.34703407,-71.04736877,32418.3,0
+73d8a22d-1be0-001a-d212-969b674e3265,5/14/1964,X49779287X,Mrs.,Zada604,Huels583,Witting912,M,white,nonhispanic,F,Boston,Suffolk County,2199,42.30884231,-71.11136558,1089964.17,438.23
+d1395124-b58d-6a67-6eca-1e1ed64ecbd9,7/6/1940,X71440266X,Ms.,Leia529,Schamberger479,,S,white,nonhispanic,F,Freetown,Bristol County,,41.73616452,-71.01756874,2450758.48,137581.12
+43e9ee84-42e6-46f6-f4a2-5ce60a8f5067,11/30/1982,X27176224X,Mrs.,Dagny669,Paucek755,Rohan584,M,white,nonhispanic,F,Lunenburg,Worcester County,1462,42.60615077,-71.68856106,1175093.99,299154.24
+88d28ed0-2c7a-cea0-eddf-94febd544d6b,5/21/1986,X75837328X,Mrs.,Karolyn830,Haag279,Rutherford999,M,white,nonhispanic,F,Plymouth,Plymouth County,,41.85021633,-70.58033678,1139190.83,125295.77
+93420848-dcb8-c90b-a566-03cc61e0d5f5,4/22/2020,,,Suzanna632,Gulgowski816,,,white,nonhispanic,F,Boston,Suffolk County,2128,42.33984383,-71.0883451,59012,4590.56
+7689a3e3-df7a-ac15-cd78-55b9bfd1e0b3,2/8/1966,X539416X,Mrs.,Victoria535,Correa904,Salgado989,M,white,hispanic,F,Lawrence,Essex County,1843,42.72540623,-71.18877292,1885951.67,18780.36
+42d4a9aa-c05c-739e-8eb1-599294c5dfdd,10/24/1974,X51592331X,Ms.,Arthur650,Jakubowski832,,S,white,nonhispanic,F,West Concord,Middlesex County,,42.46245652,-71.40392645,1727803.55,172395.75
+d8e4cb27-71d8-cb5d-1657-3cb29340ea3c,1/31/2015,,,Janine159,Labadie908,,,white,nonhispanic,F,Boston,Suffolk County,2118,42.34946679,-71.06278286,114940.64,1353.17
+be0bf633-ca4d-4742-1820-8a2fda94ab3d,3/20/1917,X33492883X,Mr.,Keenan632,Hoppe518,,M,white,nonhispanic,M,Springfield,Hampden County,1119,42.04488283,-72.46630569,1160927,64745.74
+df91fd65-0d66-3db0-759a-e7157b07208d,1/5/2011,,,Pablo44,Chapa957,,,asian,hispanic,M,Boston,Suffolk County,2136,42.3107175,-71.12513066,293859.15,15.6
+72edb4e9-d054-8d4e-9e64-523e6f5b5d78,7/10/1950,X33964515X,Mr.,Nigel915,Robel940,,S,white,nonhispanic,M,Medway,Norfolk County,,42.11036422,-71.4272362,1897147.14,85432.01
+01f47978-ee90-0f44-62ff-ff105888768c,7/30/1969,X76028830X,Mrs.,Cynthia180,Wilkinson796,Beier427,M,white,nonhispanic,F,Fall River,Bristol County,2790,41.66264314,-70.99185411,2416794.59,294166.02
+c988fb7e-85c1-dd7f-73fc-e02913495911,12/26/1973,X40376902X,Mrs.,Jacinta658,Spinka232,Hilpert278,M,white,nonhispanic,F,Lynn,Essex County,1904,42.47899105,-70.99371259,2285046.78,287255.35
+867c5e75-223f-c871-d5c3-88196fe391e1,12/17/1957,X40067591X,Mr.,Scott935,Hessel84,,M,white,nonhispanic,M,Marblehead,Essex County,,42.50061099,-70.86235005,1708637.73,94599.35
+1c00fc74-0306-3944-46ed-31e1d7dde570,3/12/2022,,,Kris249,Ratke343,,,white,nonhispanic,M,Boston,Suffolk County,2127,42.32868113,-71.15070312,9836.98,0
+7b2682c7-8294-bf2c-7876-084a5a2ea308,6/27/1993,X86049599X,Mr.,Darren774,Gislason620,,M,white,nonhispanic,M,Lawrence,Essex County,1843,42.66614372,-71.19816319,709787.55,214.46
+975bdd55-17b2-baf2-5c3c-74f99e17e3f5,5/29/1977,,,Masako522,Hirthe744,,,white,nonhispanic,F,Mashpee Neck,Barnstable County,,41.59449217,-70.46800595,87890.5,0
+0edf8a96-1b55-2dc4-1a31-9652793eae90,10/24/1984,X18699066X,Mrs.,Florrie453,Price929,Thiel172,M,white,nonhispanic,F,Methuen,Essex County,1841,42.73558752,-71.19984527,1524456.82,173808.15
+2471bf9c-7e1b-ba4a-4d61-a90d0763a06b,12/25/1978,X25054243X,Mrs.,María Eugenia578,Berríos934,Rangel145,M,white,hispanic,F,Holyoke,Hampden County,,42.22035606,-72.63320276,460420.24,695275.88
+9786f15f-214e-3b53-6eb1-bca367a4cf92,4/18/2013,,,Jason347,Wolff180,,,asian,nonhispanic,M,Wakefield,Middlesex County,1940,42.54515644,-71.01761883,231118.93,260.66
+a4c8dd8c-c601-39ed-76a4-9e06df58d9b0,6/4/1962,X22743051X,Mr.,Clifford177,Bartoletti50,,M,white,nonhispanic,M,Fall River,Bristol County,2721,41.70755255,-71.11373481,197719.66,168580.76
+8a718ffa-e944-3a0d-bec8-4ff32ddec602,12/14/2010,,,Joie561,Ondricka197,,,black,nonhispanic,F,Newton,Middlesex County,2462,42.30804297,-71.17890364,291995.52,1178.83
+14263c53-81e8-fee0-8462-ecd40cb78584,5/25/2000,X11897106X,Ms.,Marcelina712,Krajcik437,,,white,nonhispanic,F,North Amherst,Hampshire County,1059,42.39635969,-72.55963946,73991.05,61578.54
+cad66a28-3522-0659-975a-33d5c439a43b,6/8/1953,X43646131X,Mr.,Normand813,Quigley282,,M,white,nonhispanic,M,Malden,Middlesex County,2155,42.45026853,-71.01516806,1508259.58,8258.92
+6cc914a9-62f6-8f18-f065-a944ae659bb4,12/25/1955,X55157387X,Mrs.,Danica886,Bergnaum523,Murphy561,M,white,nonhispanic,F,Seekonk,Bristol County,,41.79761299,-71.36274221,1949213.64,516590.3
+e4d49f1a-7063-9f84-07f1-4a8e9cf69713,7/23/1963,,,Ozzie259,Medhurst46,,,white,nonhispanic,M,Quincy,Norfolk County,2171,42.24396057,-71.12920234,108780.18,0
+57b8ae21-548c-4326-2069-b62cc2045b2f,6/15/2014,,,Kristel938,Conroy74,,,white,nonhispanic,F,North Attleborough,Bristol County,,41.92516159,-71.33227915,758818.11,0
+4328fe38-07a3-821e-c7de-0a8194ca75be,5/29/1977,X45961034X,Mrs.,Vennie613,Hudson301,Mitchell808,M,white,nonhispanic,F,Mashpee Neck,Barnstable County,,41.59546881,-70.42885395,1346315.92,54026.81
+d6a755b3-e8e5-8ce6-8b14-0d0930b39374,11/16/1982,X14592643X,Mr.,Lamar193,Langworth352,,M,white,nonhispanic,M,Walpole,Norfolk County,2081,42.18165664,-71.28037947,234925.36,20.96
+46e8296b-1d98-3662-d640-b710777e4b42,12/16/1968,X50372142X,Mrs.,Raina861,Bartell116,Morar593,M,white,nonhispanic,F,Haverhill,Essex County,1835,42.76618319,-71.13461791,1758904.42,358543.31
+b235f843-a443-620e-8af9-30d69994b8fb,1/23/1989,,,Carroll471,Hilll811,,,white,nonhispanic,M,Cohasset,Norfolk County,,42.21302579,-70.82788071,73599.46,0
+dceab152-5148-5aed-fd11-41225c07891b,10/24/2001,X2293553X,Ms.,Ceola914,Crist667,,,white,nonhispanic,F,Peabody,Essex County,1960,42.58281359,-70.93432365,614313.76,0
+677eeaae-9c1b-bb87-7ea3-27ba02606d8e,12/11/1992,X59426060X,Mrs.,Beatris270,Padberg411,Walker122,M,white,nonhispanic,F,Revere,Suffolk County,2151,42.40141712,-70.9642271,1028744.54,15083.75
+90b368a2-c4bf-398b-1cc1-dc6746d3fb52,1/23/1989,X40718839X,Mr.,Diego848,Gislason620,,M,white,nonhispanic,M,Cohasset,Norfolk County,,42.29835291,-70.80665875,820056.36,283.25
+6d393998-3194-54ea-80a5-2ad36aefa862,11/23/1975,X6541773X,Ms.,Hildred696,Baumbach677,,S,white,nonhispanic,F,Worcester,Worcester County,1605,42.22967032,-71.80411492,1354752.96,680113.93
+404a7ac9-2cbc-1792-c713-38a0dd47ff72,7/23/1963,X73204720X,Mr.,Van763,Huel628,,M,white,nonhispanic,M,Quincy,Norfolk County,2186,42.24550728,-71.08481871,1580902.35,24233.23
+4a1d7de3-f26a-860b-d55b-5e7964cf0d43,6/26/1983,X62347975X,Mr.,Juan Carlos348,Roldán470,,M,asian,hispanic,M,Boston,Suffolk County,2132,42.37648242,-71.08371092,740076.19,180590.35
+6328b95d-f0f1-1b99-eca2-e154343478a2,6/8/1953,X49689192X,Mr.,Darrel772,Towne435,,S,white,nonhispanic,M,Malden,Middlesex County,2148,42.47736681,-71.04147518,1764778.11,4497.26
+7dcb24b9-50a4-3444-3801-679a3682c1da,5/27/1945,X5628788X,Ms.,Darci883,Hilpert278,,S,white,nonhispanic,F,West Springfield,Hampden County,1089,42.16027098,-72.6553802,2770744.88,388726.43
+448f6180-7991-55b0-27fc-e573756211c5,9/10/1944,X50173066X,Mr.,Renato359,Boehm581,,M,asian,nonhispanic,M,Springfield,Hampden County,1103,42.07304715,-72.55506805,1868530.23,33695.15
+ea1c7442-2c87-de8e-9436-5ca2eac0ce64,11/10/1961,X74405993X,Mr.,Errol226,Hoeger474,,,white,nonhispanic,M,Westfield,Hampden County,1086,42.10244784,-72.80230527,544234.27,6832.77
+9976b30d-e278-87bf-172a-deeb667367b5,11/28/2017,,,Kyle55,Ferry570,,,white,nonhispanic,M,Quincy,Norfolk County,2171,42.25252315,-70.99065924,107154.37,286.13
+35b5b7ae-fb15-4057-cd62-80530150c716,4/13/2015,,,Mai109,Dietrich576,,,white,nonhispanic,F,Berkley,Bristol County,,41.83973574,-71.05019298,198645.55,422.75
+0182f528-81e2-8dd7-62c6-6814f7d230c0,12/20/1949,X87358139X,Mr.,Herman763,Anderson154,,M,asian,nonhispanic,M,Braintree,Norfolk County,,42.2163659,-70.99804109,2014420.83,76968.87
+ca1cd64b-dd72-d362-bb48-f6ccf56d98a7,7/11/1998,X50648380X,Ms.,Tobie99,Runolfsson901,,,white,nonhispanic,F,Wilmington,Middlesex County,1887,42.55995436,-71.15804227,964633.87,253.43
+56972490-9a9d-8437-27e8-e23d5a742ab4,12/3/1991,X63312015X,Ms.,Wilma646,Murphy561,,S,white,nonhispanic,F,Fall River,Bristol County,2720,41.70828285,-70.98471663,1294199.28,233429.47
+582fcd74-1717-0f35-d418-6efcaedd7e78,3/14/2021,,,Clement78,Zulauf375,,,white,nonhispanic,M,Waltham,Middlesex County,2453,42.38633391,-71.24939409,22093.33,35.4
+7323604d-0d16-9884-de87-01a9736b367c,12/1/1991,X86652663X,Mrs.,Laura391,Prieto999,Cabán897,M,white,hispanic,F,Auburn,Worcester County,,42.17331465,-71.84663861,854694.26,235312.86
+63860944-d6bf-4d67-8277-73e5d3413199,7/6/1962,X65255569X,Mr.,Tim88,Wisoky380,,M,white,nonhispanic,M,Fall River,Bristol County,2747,41.65724523,-71.19265364,1184101.36,65937.04
+40a5db98-70c1-17bb-bbe9-fc9f12374443,10/4/2010,,,Nichole96,Wunsch504,,,native,nonhispanic,F,Sturbridge,Worcester County,1566,42.12182382,-72.03941383,349573.72,2582
+5eb83f9a-d033-b2ea-9353-4a846ba1845f,7/29/1981,X19725050X,Mr.,Xavier983,Schuster709,,M,white,nonhispanic,M,Whitman,Plymouth County,,42.08510376,-70.95182704,1035464.49,7660.96
+a8af7b3e-56c2-3d60-191f-eec636796fe6,11/12/1987,X69210792X,Mr.,Perry780,Dickinson688,,,white,nonhispanic,M,West Chatham,Barnstable County,2669,41.6957445,-70.00160003,562997.39,0
+d963a917-33bc-6558-5b00-3900bda9e4b1,3/12/1996,X18757329X,Mr.,Leland44,Orn563,,,black,hispanic,M,Newburyport,Essex County,,42.78416922,-70.90770151,649975.78,70.48
+12ec01d7-a4cb-1d19-55a6-933166508986,4/18/1970,X41596431X,Mr.,Timoteo39,Nevárez403,,M,white,hispanic,M,Peabody,Essex County,1940,42.5220682,-71.03482143,1442918.57,1341.14
+7b4fe3e9-27d4-b925-f343-e288dcad0bbd,11/3/1970,X9049883X,Mr.,Palmer257,Kulas532,,M,white,nonhispanic,M,Winchendon,Worcester County,,42.61820548,-72.0551648,104556.46,30331.2
+e3831763-9a8a-d94b-9783-b68286a3c174,12/21/1995,X64664609X,Mr.,Lorenzo669,Villalobos491,,,white,hispanic,M,Pittsfield,Berkshire County,,42.41724632,-73.29729451,661670.5,582.8
+d75148a4-b0e9-0b9b-eb07-f9d244f8320f,11/12/1987,X29045960X,Mr.,Lupe126,Casper496,,M,white,nonhispanic,M,West Chatham,Barnstable County,2669,41.6394253,-69.99822713,857045.94,167.84
+ee77134b-fdf4-5ed7-7c33-af58f96b0d6e,2/23/1982,X18110714X,Mr.,Emilio417,Hilpert278,,M,white,nonhispanic,M,Lowell,Middlesex County,1854,42.62286951,-71.30108306,1002796.65,326.96
+5eea66b6-2885-adfd-4b4c-31524b386d26,7/11/2004,,,Anja508,Hayes766,,,white,hispanic,F,Lynnfield,Essex County,1940,42.55586958,-71.06276574,423946.55,4503.17
+6bba46de-cc97-dbc7-b081-ee7b0a7bde68,4/20/1989,X4259230X,Mr.,Danilo179,Labadie908,,S,white,nonhispanic,M,Leicester,Worcester County,,42.21040578,-71.86509172,870432.97,280.41
+c8a11662-6c3e-2108-f496-71740e0aba67,11/9/1946,X30987198X,Mr.,Marcus77,Kreiger457,,S,white,nonhispanic,M,Peabody,Essex County,1940,42.57496044,-70.97885587,1722138.07,25765.84
+aca5905c-cbfa-7aa7-eed3-32d1f05556af,12/6/1963,X34248025X,Mr.,Carlo647,Hermiston71,,M,white,nonhispanic,M,Orleans,Barnstable County,,41.79149238,-69.97014845,1506447.28,13868.5
+86425ee4-d7b6-dc07-021d-0969576dcb74,11/3/1970,X53024687X,Mr.,Dee580,Cole117,,S,white,nonhispanic,M,Winchendon,Worcester County,,42.63324733,-72.07195716,181555.43,435527.04
+0882d39f-7338-f632-114c-9825879fc5a3,2/14/1961,X3700959X,Mr.,Gavin481,Douglas31,,M,white,nonhispanic,M,Springfield,Hampden County,1020,42.05735535,-72.62426665,1221018.47,26862.12
+917c3c7a-6416-3b3f-a968-e9ae2ad058c0,6/18/1959,X51209861X,Mrs.,Beth967,Zboncak558,Rice937,M,white,nonhispanic,F,Grafton,Worcester County,,42.17991549,-71.69914587,1740355.8,192651.7
+1ce12f65-ce64-9968-7983-6735e8f4870e,2/19/2006,,,Dorie139,Kuhlman484,,,white,nonhispanic,F,North Amherst,Hampshire County,1059,42.36610746,-72.55421624,425025.97,6507.16
+824e7ad0-f9f1-2d08-98af-45c565a436a7,7/6/1962,X88408986X,Mr.,Demarcus108,Waelchi213,,M,white,nonhispanic,M,Fall River,Bristol County,2747,41.72159922,-71.12925228,2111946.63,4484.51
+2dad2713-f3d3-5b1c-763d-c46979da73fc,5/10/2022,,,Selma398,Robel940,,,black,nonhispanic,F,Dudley,Worcester County,,42.0137799,-71.95480881,4723.92,446.77
+38b8154c-e54f-d61a-a84d-36bd60c18a3e,11/10/1961,X67646189X,Mr.,Keenan632,Johnson679,,S,white,nonhispanic,M,Westfield,Hampden County,1085,42.16088764,-72.74860565,1671125.98,3500.57
+65e77875-448d-dbc2-0a6f-be507b2cff97,1/15/1958,X64746143X,Mr.,Scot349,Feest103,,M,white,nonhispanic,M,Amesbury,Essex County,1913,42.833822,-70.92576344,1792464.76,6922.01
+23c99460-5ed7-9141-da28-99e213eb3524,8/7/1987,X87479593X,Mrs.,Vera718,Turcotte120,Dickinson688,M,white,nonhispanic,F,Fitchburg,Worcester County,,42.58059132,-71.82866365,1093277.82,170096.63
+ca850405-f901-02f0-76ed-c3fcc16fdac2,3/4/1954,X12916437X,Ms.,Oliva247,Sawayn19,,S,white,nonhispanic,F,Taunton,Bristol County,,41.98829021,-71.09597232,661607.4,25146.74
+325d3b96-7085-b787-17c2-d53dfd85587e,1/11/1957,X59891566X,Mr.,Young120,Doyle959,,M,black,nonhispanic,M,North Reading,Middlesex County,,42.55145865,-71.09664432,1799447.35,1758.48
+3fbca947-a771-90f9-7de2-850796e211ec,12/6/1963,X7475378X,Mr.,Fritz267,Towne435,,S,white,nonhispanic,M,Orleans,Barnstable County,2653,41.74150639,-69.92153899,1426492.17,765.63
+c72da4b9-baa4-a1e5-ff3a-7a1c8c659e24,4/8/2018,,,Arleen939,Anderson154,,,white,nonhispanic,F,Foxborough,Norfolk County,,42.04374745,-71.25112771,14111.95,16756.92
+6f48eaa0-6a62-e3c1-27b7-9be4678b1019,1/15/1958,X37415430X,Mr.,Donn979,Kiehn525,,M,white,nonhispanic,M,Amesbury,Essex County,1913,42.83071615,-70.98440574,591539.26,1880.39
+abec0f84-d544-97fb-dcf3-31ac48d535ac,2/13/1974,X12460882X,Mrs.,Raeann749,Crist667,McGlynn426,M,white,nonhispanic,F,Waltham,Middlesex County,2452,42.39315407,-71.13233568,1691048.2,472253.03
+d4d6896b-c1a2-1b59-0dd7-1daca2b8c151,3/4/2000,X59428794X,Ms.,Omega729,Gleason633,,,white,nonhispanic,F,Mansfield Center,Bristol County,,41.98776719,-71.23632627,718373.72,124399.09
+324d6931-ec35-c0d8-1025-c085de8ee475,8/11/1982,X47090509X,Ms.,Vicky438,Feeney44,,S,white,nonhispanic,F,Everett,Middlesex County,,42.42754747,-71.03564478,1930998.05,254832.23
+0274e270-aacb-5d76-675b-682d77befa21,8/12/2016,,,Shanti441,Kutch271,,,white,nonhispanic,F,Dracut,Middlesex County,,42.65693599,-71.3048799,144316.3,5371.05
+f0a075ff-7237-8d36-0fc0-9c9d6f470188,8/30/1960,X62774184X,Mrs.,Cameron381,Friesen796,Nicolas769,M,asian,nonhispanic,F,Brookline,Norfolk County,2446,42.34165383,-71.13286264,2080814.98,219514.04
+7f523d15-0c07-b435-a117-5b5f6f2c5632,8/13/1960,X43965217X,Mrs.,Mandie666,Hermann103,Wilkinson796,M,black,nonhispanic,F,Boston,Suffolk County,2163,42.35766298,-71.12848221,1723537.68,180080.5
+6b8a3038-d0e2-eedd-23c5-f31ad2d10a1d,2/15/2012,,,Hugh686,Nolan344,,,asian,nonhispanic,M,Hopedale,Worcester County,,42.10987193,-71.48148494,265767.47,165.6
+c3fd992f-8798-9d61-98f6-446e444ab7d5,2/15/1960,X47150439X,Mrs.,Lily490,Homenick806,Rowe323,M,white,nonhispanic,F,Southborough,Worcester County,,42.2953731,-71.49343839,2275218.45,211522.78
+c8981fdd-4332-69c1-8ef3-33388c90200b,5/24/2005,,,Marshall526,Jakubowski832,,,white,nonhispanic,M,Lynn,Essex County,,42.55477685,-71.00341636,239905.21,6816.29
+7c158559-14e7-cd0e-f29f-8fdaff0783e1,5/14/1977,,,Tory770,Lueilwitz711,,,black,nonhispanic,M,Chelsea,Suffolk County,2150,42.40958296,-71.03342225,55227.25,0
+9e7deab3-8fe1-cf74-a07f-b07ffc991eb4,3/20/1917,X41155166X,Mr.,Rueben647,Koelpin146,,S,white,nonhispanic,M,Springfield,Hampden County,1107,42.13137942,-72.62903883,5541279.79,395236.67
+6ab8528a-5c50-8d49-ba6c-bd4383db912d,3/22/1964,X88798233X,Mr.,Felipe97,Samaniego616,,S,black,nonhispanic,M,Beverly,Essex County,1915,42.58427656,-70.87032071,1164466.15,6968.88
+0586a0c8-b179-02cc-5155-31c2aacc9bd8,1/2/1971,X40310394X,Mr.,Elden718,Bahringer146,,S,white,nonhispanic,M,Plymouth,Plymouth County,2360,41.89458184,-70.59688277,1365514.84,923.43
+27267a09-42a5-018c-cd86-d2c8a15fe77d,3/19/1985,X50254094X,Mr.,Tommie457,Bins636,,M,white,nonhispanic,M,Lunenburg,Worcester County,1462,42.55993,-71.69480028,817361.61,0
+ee0c6cf9-f626-a87e-0781-eef5c67c2672,10/7/2014,,,Larraine124,Turcotte120,,,white,nonhispanic,F,North Andover,Essex County,,42.62805962,-71.07743775,161146.4,20.44
+77d62a35-2f9d-441d-8d60-28aac9ca5d84,4/28/1996,X59124795X,Ms.,Coletta724,Huels583,,,white,hispanic,F,Plymouth,Plymouth County,,41.84360583,-70.65539266,1534065.51,189646.66
+c88b3228-e998-034e-be60-b18bd445e19c,6/19/2009,,,Valrie435,Borer986,,,white,nonhispanic,F,Worcester,Worcester County,1545,42.24413527,-71.81148379,38115.14,55767.14
+076e6e69-3ea8-b5c5-8ac7-0388638d458b,5/8/1971,X3319778X,Mrs.,Jacquline932,Koelpin146,Wuckert783,M,white,nonhispanic,F,Pittsfield,Berkshire County,,42.48481039,-73.28159157,2511214.23,171732.15
+5949711a-64d2-c7b0-239e-b0ab6764ae0e,11/19/1961,X85818163X,Mrs.,Aubrey96,Hackett68,Streich926,M,white,nonhispanic,F,Newton,Middlesex County,2461,42.32820629,-71.18912494,1637434.11,22223
+d8b97e7c-976c-2d9d-d108-285329115b49,7/12/1961,X72732959X,Mr.,Jimmy858,Keebler762,,M,white,nonhispanic,M,Lynnfield,Essex County,1940,42.55793403,-71.05665801,1638192.78,27919.28
+5f1b89f9-c365-dbc0-760f-482092107735,5/14/1977,X42826051X,Mr.,Lucien408,Pollich983,,M,black,nonhispanic,M,Chelsea,Suffolk County,2149,42.40515989,-71.02124407,1758043.14,1800.21
+801d8d7b-4ad5-f501-7fc9-b2a050649c30,6/19/2009,,,Marlena558,Howe413,,,white,nonhispanic,F,Worcester,Worcester County,1610,42.29260552,-71.73244696,41761.9,22645.43
+ec55e525-02ce-3538-231b-df42f2983eb6,1/15/1958,X61229578X,Mr.,Garrett899,Homenick806,,M,white,nonhispanic,M,Amesbury,Essex County,,42.87384076,-70.99762714,1212499.92,64235.24
+74c9ca60-6e30-e2cb-279b-a3273dc96404,3/29/2019,,,Chi716,Senger904,,,white,nonhispanic,F,North Reading,Middlesex County,,42.59389787,-71.05881548,91182.85,240.6
+048c034d-7112-df84-9e86-830ac1ffc867,1/4/1917,X3375589X,Mr.,Lanny564,Parker433,,M,white,nonhispanic,M,Sherborn,Middlesex County,,42.18359717,-71.41285037,2679056.13,298690.83
+f707e8d3-3097-cf5c-f1e9-3bfc9bcf7032,4/3/1986,X41996880X,Mrs.,Flora200,Kohler843,Stracke611,M,white,nonhispanic,F,Cambridge,Middlesex County,2142,42.41136446,-71.12358708,1308477.16,319087.91
+db400411-5daa-8bde-cdf7-0efc7aaf38d5,4/1/1998,X38366810X,Ms.,Katrice671,Ortiz186,,,white,nonhispanic,F,Norwood,Norfolk County,,42.2187155,-71.25966467,595249.38,181370.51
+ececb3b6-66f2-0e74-4075-15c3ecbd738c,12/27/1964,X55647957X,Ms.,Dacia646,Padberg411,,S,white,nonhispanic,F,Bolton,Worcester County,,42.46376223,-71.58777539,2080231.9,302664.33
+446ad276-405e-993c-faa4-8c7ecfd72dc9,6/11/1956,X10061081X,Mrs.,Jacquelynn434,Pacocha935,Grady603,M,other,nonhispanic,F,Hudson,Middlesex County,1749,42.43721275,-71.57654206,2026608.26,239380.19
+a45c8ffb-0a71-9cc9-20cf-9a905f2db332,7/5/1988,X5376632X,Mr.,Mariano761,Raynor401,,S,hawaiian,hispanic,M,Boston,Suffolk County,2111,42.40586751,-71.03358071,149938.63,704488.28
+6e054097-7b85-71aa-04ef-543156aa359d,2/21/1989,X29467367X,Mrs.,Rutha66,Zemlak964,Nikolaus26,M,white,nonhispanic,F,West Springfield,Hampden County,,42.13089737,-72.68753516,1256236.73,359959.8
+9811271d-d209-7242-7582-1810a32a72a7,1/8/2019,,,Thaddeus38,Jast432,,,white,nonhispanic,M,Northbridge,Worcester County,,42.08987272,-71.6741657,88494.42,165.6
+6aa7228c-31f3-ccb0-a03d-d087727b4088,7/8/2006,,,Danielle72,Wyman904,,,white,nonhispanic,F,Orange,Franklin County,1364,42.582821,-72.2812757,32517.56,974.01
+d0b5a3bd-5889-e2bd-36cf-20d9b2468595,6/11/1997,X8198648X,Ms.,Sheena120,Rohan584,,,white,nonhispanic,F,Bridgewater,Plymouth County,2324,41.96394928,-71.02477882,607449.44,45277.85
+fb5aa0bc-4317-3c82-2638-d18a418ab517,7/12/1961,X50649550X,Mr.,Kenton313,Crist667,,M,white,nonhispanic,M,Lynnfield,Essex County,,42.52205798,-71.03664701,1544599.51,2782.86
+c35d3844-2c3b-7743-532f-d58cfb1ea597,9/7/1961,X18257442X,Mrs.,Whitley172,Wilkinson796,Weissnat378,M,white,nonhispanic,F,Walpole,Norfolk County,,42.12774896,-71.25536939,1902290.46,5031.58
+aa5f9400-c585-1ce7-420f-15c514044afa,1/15/1958,X10954140X,Mr.,Francisco472,Rempel203,,M,white,nonhispanic,M,Amesbury,Essex County,,42.90028063,-70.97932951,1257114.04,26221.16
+d5cf83b6-6705-e469-4cfc-6c9efe956c91,7/23/2001,X79347422X,Ms.,Almeda560,Purdy2,,,white,nonhispanic,F,North Attleborough,Bristol County,,41.96808179,-71.37345249,1395868.36,3802.92
+b4071556-207d-acd0-3db7-3806c22feea5,9/21/1951,X61125268X,Mr.,Dwight645,Hyatt152,,M,asian,nonhispanic,M,West Boylston,Worcester County,,42.38188521,-71.74353887,1401828.46,9072.54
+e28f04fc-8425-8be2-31ae-e1f6e70bc206,3/25/1982,X21236308X,Ms.,Cara845,Schowalter414,,S,white,nonhispanic,F,Quincy,Norfolk County,2186,42.30103742,-70.99228095,1961096.72,277283.53
+9610b329-1a88-cce1-c1ef-d15a8d8a94f4,8/14/1953,X54380720X,Mr.,Jefferey580,Blanda868,,S,white,nonhispanic,M,Orange,Franklin County,1364,42.56843805,-72.27940905,225351.53,74127.39
+80f74331-96c6-fbe0-9edc-c099caf0e6d4,2/1/1998,X70995720X,Ms.,Towanda270,Graham902,,,white,nonhispanic,F,Granby,Hampshire County,1033,42.23840287,-72.49778332,610027.32,465.4
+835ccb63-302a-ccf9-59c6-3d5a1a9b279d,4/21/1958,X629759X,Mr.,Jake169,Heidenreich818,,S,white,nonhispanic,M,Worcester,Worcester County,1607,42.28217839,-71.77046609,1755779.32,39166.09
+dfe0321d-0823-4211-bcc8-60c853201e01,10/6/1969,X69574145X,Mrs.,Katy259,Conn188,Heathcote539,M,asian,nonhispanic,F,Malden,Middlesex County,,42.37655934,-71.12618574,2040825.85,581789.84
+27fb78b5-ab89-5f76-611d-9247479a8eb7,9/15/1961,X18428014X,Mr.,Mohamed943,Emmerich580,,S,white,nonhispanic,M,Boston,Suffolk County,2126,42.31497785,-71.0723111,196212.82,177785.08
+cdbb3094-2522-a992-db15-18a21deca000,1/16/1992,X36281103X,Mr.,Cristopher265,O'Reilly797,,M,white,nonhispanic,M,Randolph,Norfolk County,,42.15654784,-71.04455434,98634.12,48906.57
+1557dd54-fc2f-7c30-549e-99e8350b69d0,2/5/1994,X8041776X,Mr.,Jed345,Kemmer137,,S,white,nonhispanic,M,Dudley,Worcester County,,42.01225766,-71.91809302,222356.58,0
+c3b94506-3b17-d9ab-99c4-41cf089c5d52,10/20/1966,X2080119X,Mr.,Christoper325,Haag279,,M,white,nonhispanic,M,Longmeadow,Hampden County,,42.01835704,-72.56624651,1365544.04,1907.54
+937a2fcb-c458-25b0-a601-4c78b0c73fc0,4/29/1949,X33396070X,Mrs.,Maia476,Friesen796,King743,M,white,nonhispanic,F,Barnstable,Barnstable County,,41.60360314,-70.26754261,1794063.49,270147.52
+7d455156-71f7-2819-0d39-ea9a446c26f8,2/23/1983,X56795513X,Mrs.,Michael441,Nikolaus26,Kreiger457,M,white,nonhispanic,F,Westfield,Hampden County,1085,42.11820507,-72.71655354,1456348.12,95042.96
+09813bf7-9115-5d25-f322-9b74dc1890b3,1/1/1962,X72158690X,Mr.,Truman805,Hyatt152,,M,white,nonhispanic,M,Attleboro,Bristol County,2861,41.91951248,-71.39918004,1520453.2,8926.12
+315816e3-a27b-01ad-2e8f-63e2e72b5575,3/13/1946,X85620424X,Mr.,Everett935,Schinner682,,M,white,hispanic,M,Revere,Suffolk County,,42.40939489,-71.03884242,1223976.93,1297.97
+f8a1034f-2ebf-be52-927c-60faeac52cd1,11/21/1965,X55475274X,Ms.,Shari363,Lindgren255,,S,white,nonhispanic,F,Dartmouth,Bristol County,,41.53152218,-70.98433949,1952095.98,624669.68
+4ce6133c-1801-04a0-3f33-039152d69880,10/23/1959,X42060788X,Mrs.,Raguel228,Hoeger474,Hilpert278,M,white,hispanic,F,Lowell,Middlesex County,1854,42.6662631,-71.29208053,1994359.81,536769.67
+7cf60ebe-1d17-dc45-4fc5-070eea79da32,7/15/2013,,,Avery919,Jaskolski867,,,white,nonhispanic,F,Boston,Suffolk County,,42.28056068,-71.10946694,231007.53,34297.05
+1662ca6f-52b1-3549-deed-82b3f59f6430,10/14/2004,,,Dorian295,Altenwerth646,,,white,nonhispanic,M,Oxford,Worcester County,1540,42.12778383,-71.8553469,502291.8,6413.61
+97357303-e2ec-cd84-d5e7-39958de43030,6/5/1974,X37734980X,Mr.,Garret233,Kiehn525,,M,white,nonhispanic,M,Andover,Essex County,,42.66815341,-71.18725608,1182601.72,0
+5d3f2a6e-1800-989b-daea-7cd54749a8a2,3/17/1966,X16805363X,Mr.,Brooks264,Lesch175,,M,white,nonhispanic,M,Boston,Suffolk County,2151,42.39941416,-71.01466136,176934.31,70950
+1d438ee2-23ea-6ed1-183d-cf7dc229a41f,2/22/1975,X53838134X,Mrs.,Luz785,Roque844,Tórrez28,M,black,hispanic,F,Boston,Suffolk County,2131,42.320863,-71.02622658,1766097.23,489697.06
+5ac14b49-013c-f221-ea21-621349d54680,3/13/1946,X1160724X,Mr.,Isidro558,Howell947,,,white,hispanic,M,Revere,Suffolk County,,42.43706683,-71.01088298,570090.81,0
+4bb060e5-e38c-7208-033e-8a6636f51c93,5/9/2002,X30217532X,Ms.,Rebbeca432,Schimmel440,,,white,nonhispanic,F,Malden,Middlesex County,2155,42.44598867,-71.13153543,525849.96,93569.73
+305d4c13-2883-7599-6d47-f53bd383955d,4/12/2008,,,Annika454,Streich926,,,white,nonhispanic,F,Medford,Middlesex County,2145,42.42913184,-71.08998041,405533.46,1841.48
+121f1a40-aea1-bdad-c6f1-2e83f91505d0,3/20/1917,X50338173X,Mr.,Gus973,Torphy630,,S,white,nonhispanic,M,Springfield,Hampden County,1107,42.10179529,-72.5511458,5075993.97,162392.24
+09d583c6-4f90-a519-7f7e-e6421b49e620,8/24/2020,,,Faustino767,Abbott774,,,white,nonhispanic,M,Tewksbury,Middlesex County,,42.65081361,-71.19852102,45749.26,993.93
+1c891abe-2f3c-f61c-ab54-b2b9540701bc,10/9/1995,X34324354X,Ms.,Elfreda431,Sauer652,,,white,nonhispanic,F,Topsfield,Essex County,,42.65935362,-70.96202713,1030172.59,49423.76
+e5fb556a-be39-84f3-7a0a-946a5382c240,6/20/1977,X31220224X,Mr.,Titus37,Goodwin327,,S,white,nonhispanic,M,Boston,Suffolk County,2116,42.2852551,-71.086163,1921217.46,8643.46
+a73b6bd9-ad87-4a69-b69e-9a8605cac653,5/5/2006,,,Stefan297,Kessler503,,,white,hispanic,M,Agawam,Hampden County,1030,42.0333723,-72.67511852,920599.63,1202.84
+f319a15b-5077-ae68-64d4-722138f9e83d,12/12/1963,X85657281X,Mr.,Boris111,Kovacek682,,M,white,nonhispanic,M,Waltham,Middlesex County,2451,42.4157788,-71.19290666,2092419.98,46200.29
+fec66da8-024b-08d4-9342-9845e33b60de,1/28/1952,X30239623X,Mr.,Dan465,Ward668,,M,white,nonhispanic,M,Bellingham,Norfolk County,,42.05204045,-71.44744299,1778118.33,38771.38
+496fa6a6-856e-93bd-7bb5-85098956ee0c,4/27/1965,X7481752X,Mr.,Markus389,Fay398,,M,white,nonhispanic,M,Medford,Middlesex County,2145,42.47071753,-71.13631982,1444811.53,113.08
+8d081131-77d7-5944-ad84-27dd74c46010,9/21/1951,X29279140X,Mr.,Zack583,Erdman779,,M,asian,nonhispanic,M,West Boylston,Worcester County,,42.38952352,-71.77845158,1828180.45,26694.53
+e614dc40-849f-a92d-6dbe-b45107d97acc,2/17/1997,X73606834X,Ms.,Yukiko930,O'Connell601,,,black,nonhispanic,F,Boston,Suffolk County,2203,42.34007634,-71.11515039,713268.87,93813.71
+60d39021-8d65-7c49-5c4d-33ba6a6baafd,3/5/1974,X87667045X,Mr.,Mark765,Mertz280,,M,white,nonhispanic,M,Winchester,Middlesex County,1890,42.46440852,-71.16782159,1215537.29,1710.67
+85305923-fa96-9cf9-5392-a79ca487e441,8/20/1961,X58426410X,Mrs.,Guillermina633,Valle770,Mora209,M,white,hispanic,F,Salem,Essex County,1970,42.49438759,-70.91207296,1479002.8,52233.91
+5d617b69-3b0e-5313-cba7-902801c1019f,3/13/1946,X31330346X,Mr.,Bradley693,Kuvalis369,,M,white,hispanic,M,Revere,Suffolk County,2151,42.4663474,-71.00993068,2218499.9,54106.86
+c62c73d2-7b2e-b657-2552-5cf65a242f84,2/5/2021,,,Gonzalo160,Krajcik437,,,white,nonhispanic,M,Lexington,Middlesex County,2421,42.48402192,-71.19366883,40253.58,107.63
+7eb86071-0801-9313-9067-f3baa28930cd,6/23/2000,X19575437X,Ms.,Sommer719,Davis923,,,white,nonhispanic,F,Bridgewater,Plymouth County,2324,41.97148759,-71.00590706,909729.16,19354.27
+2ceb2f8b-9df1-c3f9-b1ae-c875b6107803,1/13/2019,,,Rosaria177,Morar593,,,white,nonhispanic,F,Arlington,Middlesex County,2476,42.38353123,-71.13286244,100071.89,15.6
+c939134e-c387-d294-72ce-640edb6a044a,5/4/1975,X2419926X,Mrs.,Tamika537,Pouros728,Haley279,M,white,nonhispanic,F,Weymouth,Norfolk County,2191,42.2239853,-70.97065673,1307172.24,84666.27
+d3526d6b-a585-f0fd-c505-560592ffc9c4,2/1/1995,X65511008X,Mrs.,Marya246,McCullough561,Baumbach677,M,white,nonhispanic,F,Lynn,Essex County,1901,42.44046879,-70.88200985,1430861.53,94.01
+5a14e99a-38bf-b776-245f-3080f615cacf,12/29/2012,,,Carmen818,Segovia340,,,white,hispanic,F,Boston,Suffolk County,2116,42.3857329,-70.99939298,230253.04,1249.23
+645c555c-b3d9-cdef-ac4f-dcaf022274df,2/17/1933,X74389592X,Mr.,Woodrow571,Doyle959,,M,white,nonhispanic,M,Springfield,Hampden County,1199,42.09797801,-72.50380186,1322488.62,60172.74
+c8963fa7-ccb4-f878-3cc0-edcab3f25c8c,1/8/2006,,,Crystle668,Lakin515,,,white,nonhispanic,F,Foxborough,Norfolk County,2035,42.03452512,-71.24043128,400540.42,338.52
+1118db46-5f19-d0b5-49d1-8787eb8a9589,7/14/1976,X710735X,Mrs.,Nu535,Hermiston71,Howell947,M,asian,nonhispanic,F,Walpole,Norfolk County,,42.14120812,-71.29915555,1305302.84,4399.21
+60625b7f-8b81-3735-c737-86b3757eca41,5/16/1964,X40420903X,Mrs.,Chelsea317,Nienow652,Kutch271,M,white,nonhispanic,F,Peabody,Essex County,,42.55486426,-71.06050632,1680421.69,413856
+6c8c0809-11ad-a2a2-8795-0ea35f3d59a3,4/17/1953,X64676844X,Mr.,Dino214,Kuvalis369,,M,white,nonhispanic,M,Dartmouth,Bristol County,,41.57921985,-70.97190807,1689958.22,6035.2
+85f5aa57-2a24-940e-69c8-9e3c08f91fff,10/5/1995,,,Leigh689,Beahan375,,,white,nonhispanic,F,Plymouth,Plymouth County,,41.9161393,-70.63956867,373139.31,0
+e06502a4-60de-dba8-3544-dd7295790563,9/27/1961,X78875639X,Mr.,Sylvester827,Ruecker817,,M,white,nonhispanic,M,Waltham,Middlesex County,2453,42.39443439,-71.22704724,1565141.54,13890.75
+13a37100-668e-cf08-3799-ea98d562ba20,9/18/1980,X69735053X,Mrs.,Virgina372,Murphy561,Feeney44,M,white,nonhispanic,F,Chelmsford,Middlesex County,,42.64318482,-71.37186438,1469755.92,98258.84
+d0b47f65-94d7-c1c3-b8cf-d4f87a14a3c7,4/22/1969,X72751206X,Mrs.,María Eugenia578,Cabán897,Fernández399,M,white,hispanic,F,Gloucester,Essex County,1930,42.59069196,-70.70946497,1666766.63,362882.53
+725c43ef-208e-bb08-5a2c-29b5bdb95085,10/31/1942,X74422703X,Mr.,Herb645,Bruen238,,M,white,nonhispanic,M,Leominster,Worcester County,1453,42.53419895,-71.75683776,1783411.65,0
+45384a33-ad18-41c3-9f01-df7b5fbc8d5f,12/1/1975,X36152079X,Mr.,Víctor493,Díaz674,,M,black,nonhispanic,M,Concord,Middlesex County,,42.47948847,-71.33997758,155165.03,48919.59
+316f84e2-2501-c878-745e-e779bac197ca,7/6/1998,X39972672X,Ms.,Jeane173,Torphy630,,,white,nonhispanic,F,Somerville,Middlesex County,2155,42.40244002,-71.1148415,169504.89,154010.09
+c50ccf05-ff1d-fff3-8932-8cae50404555,4/4/2009,,,Lorraine478,Abbott774,,,white,nonhispanic,F,Waltham,Middlesex County,2451,42.39133398,-71.19787309,43459.39,27156.9
+7791f488-a4a8-a27f-0a50-93f5c0324c63,6/29/1947,X27215079X,Mrs.,Jada948,Bins636,Walter473,M,white,nonhispanic,F,Milton,Norfolk County,,42.24928433,-71.07797434,2065004.42,344223.21
+f7f0cbea-8d2d-3023-b138-e9973605031a,10/5/1995,X21606863X,Ms.,Serina556,Schiller186,,,white,nonhispanic,F,Plymouth,Plymouth County,2360,41.9049845,-70.64201576,1323930.78,144365.54
+7582a1f5-0a27-b34b-1902-a2a3cd2741d3,5/19/1962,X36392446X,Mr.,Rudolf736,O'Keefe54,,M,white,nonhispanic,M,Marlborough,Middlesex County,1752,42.3712729,-71.5832423,1536377.11,59112.23
+574a274a-0067-2bf7-2310-1999aff36332,4/6/1991,X67936543X,Mrs.,Charla27,Bogan287,Wolf938,M,asian,nonhispanic,F,Framingham,Middlesex County,1702,42.24652974,-71.3901807,1037732.83,152036.5
+732d3a65-282d-5181-118a-9094f1d8cb82,1/22/1972,X40383904X,Mr.,Colby655,Walter473,,S,white,nonhispanic,M,Hingham,Plymouth County,2043,42.23230641,-70.87768798,1292890.66,17583.3
+3adcd296-7bba-9cd6-c696-85d65c02f3fb,7/4/1966,X45688467X,Mr.,Abel832,DuBuque211,,M,white,nonhispanic,M,Newbury,Essex County,,42.73486863,-70.85323198,1449589.19,95609.04
+50da3053-c915-456d-d68d-79958c25c3cc,7/12/1996,X31972768X,Mr.,Romeo514,King743,,,white,hispanic,M,Boston,Suffolk County,2132,42.33605475,-71.10202808,648593.62,535.68
+bb5f7d6a-7e1c-7b86-24a2-0486f13c8dcc,5/31/1981,X27381129X,Mr.,Elton404,Wisozk929,,M,white,nonhispanic,M,Boston,Suffolk County,2118,42.28732431,-71.08618351,746472.55,0
+9c52a1f1-88fe-c01e-cfe6-993019c03f5c,9/16/1964,X35977008X,Mrs.,Malika385,Armstrong51,Blanda868,M,white,nonhispanic,F,Lynn,Essex County,,42.46163285,-70.96100625,323178.29,1500953.86
+f2c3fe7f-2404-a087-95dc-882ee3e5a7da,2/6/2001,X13660943X,Mr.,Kurtis994,Abbott774,,,white,nonhispanic,M,Brockton,Plymouth County,,42.04292352,-71.05523905,205090.85,984.34
+3b89e2d3-72d1-db48-cd37-23b3dae68c25,2/6/2020,,,Horacio317,González124,,,white,hispanic,M,Worcester,Worcester County,1603,42.17708378,-71.8200267,66720.57,203.92
+d2f328c2-d168-4c5d-e3b7-947f557ce974,7/24/1988,X62397345X,Mrs.,Yun266,Crooks415,Kilback373,M,white,nonhispanic,F,Plainville,Norfolk County,,42.05626578,-71.30609138,995448.18,19730.59
+a40b2b43-87ee-e6c7-9b88-b9e5d6512cfd,11/29/1948,X65034922X,Mrs.,Elsa29,Beier427,Crist667,M,white,nonhispanic,F,Cheshire,Berkshire County,,42.51717601,-73.14123457,2237696.62,236324.01
+53af973a-2c0a-5059-0aa6-8ca51523262e,10/31/1942,X43036824X,Mr.,Brad867,Schoen8,,S,white,nonhispanic,M,Leominster,Worcester County,1453,42.54645094,-71.75709143,176259.11,0
+df91397d-4b22-cc0c-8d0a-fa61ea58423b,12/26/1981,X14611918X,Mr.,Lamar193,Daniel959,,S,white,nonhispanic,M,Lynn,Essex County,1906,42.5192474,-71.00549857,656261.61,21612.04
+8179199d-95db-5a69-c096-99e4d4a628f9,2/17/1933,X87539962X,Mr.,Rene434,Dach178,,M,white,nonhispanic,M,Springfield,Hampden County,1129,42.15259612,-72.54746815,2157469.18,435068.27
+c978d2de-043a-9df4-a3ea-aeb2291ddc19,1/24/2006,,,Maya972,Luettgen772,,,white,nonhispanic,F,Wilbraham,Hampden County,,42.11362968,-72.45383876,414872.23,165.6
+eeed72b1-00e3-b1ad-4e8d-27843940436a,7/29/2019,,,Sara501,Schmitt836,,,white,nonhispanic,F,Medford,Middlesex County,2155,42.45252975,-71.09307555,80982.65,240.6
+7414e9f4-4538-e9a0-1770-2051bed578f8,3/28/1982,X76320947X,Ms.,Victorina579,Jast432,,S,white,nonhispanic,F,Everett,Middlesex County,2148,42.45221016,-71.01365516,1958031.74,186116.43
+40b4459b-824f-18d3-ef10-c62c5189e20d,4/14/1964,X57671727X,Mr.,Cecil300,Hilpert278,,M,white,nonhispanic,M,Somerville,Middlesex County,2155,42.41215815,-71.09772657,242297.02,54495.61
