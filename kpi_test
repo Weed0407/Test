@@ -1,0 +1,212 @@
+from typing import Dict, List
+import math
+import pandas as pd
+from tkinter import filedialog
+import numpy as np
+import glob
+import pyxlsb
+import os
+
+selected_columns = ['PS Traffic (GB)', 'TU PRB DL (%)', 'TU PRB UL (%)', 'ePS CSSR', 'CSFB SR',
+                    'ePS CDR',
+                    'DL User Throughput (Mbps)', 'UL User Throughput (Mbps)', 'VOLTE Traffic (Erl)', 'VOLTE CSSR',
+                    'VOLTE CDR']
+selected_columns_percent = ['TU PRB DL (%)', 'TU PRB UL (%)', 'ePS CSSR', 'CSFB SR',
+                            'ePS CDR', 'VOLTE Traffic (Erl)', 'VOLTE CSSR', 'VOLTE CDR']
+
+
+def read_excel_file(file_path: str) -> Dict[str, pd.DataFrame]:
+    """Đọc tất cả các sheet trong file Excel và trả về một dictionary chứa các DataFrame tương ứng."""
+    xls = pd.ExcelFile(file_path)
+    dfs = {}
+    for sheet_name in xls.sheet_names:
+        dfs[sheet_name] = pd.read_excel(xls, sheet_name)
+    return dfs
+
+
+def get_total_values_pre_daily(df: pd.DataFrame, df_total: pd.DataFrame) -> pd.DataFrame:
+    df_total.iloc[0, 2:] = df.loc[
+        df['ERBS Id'] == 'TOTAL', ['PS Traffic (MB)', 'TU PRB DL (%)', 'TU PRB UL (%)', 'ePS CSSR', 'CSFB SR',
+                                   'ePS CDR', 'DL User Throughput (Mbps)', 'UL User Throughput (Mbps)',
+                                   'VOLTE Traffic (Erl)', 'VOLTE CSSR', 'VOLTE CDR']]
+
+    return df_total
+
+
+def get_total_values_post_daily(df: pd.DataFrame, df_total: pd.DataFrame) -> pd.DataFrame:
+    df_total.iloc[1, 2:] = df.loc[
+        df['Total'] == 'TOTAL', ['PS Traffic (MB)', 'TU PRB DL (%)', 'TU PRB UL (%)', 'ePS CSSR',
+                                 'CSFB SR', 'ePS CDR', 'DL User Throughput (Mbps)', 'UL User Throughput (Mbps)',
+                                 'VOLTE Traffic (Erl)', 'VOLTE \nCSSR', 'VOLTE CDR']]
+
+    return df_total
+
+
+def get_total_values_pre_peak(df: pd.DataFrame, df_total: pd.DataFrame) -> pd.DataFrame:
+    df_total.iloc[0, 2:] = df.loc[
+        df['ERBS Id'] == 'TOTAL', ['PS Traffic (MB)', 'TU PRB DL (%)', 'TU PRB UL (%)', 'ePS CSSR', 'CSFB SR',
+                                   'ePS CDR', 'DL User Throughput (Mbps)', 'UL User Throughput (Mbps)',
+                                   'VOLTE Traffic (Erl)', 'VOLTE CSSR', 'VOLTE CDR']]
+
+    return df_total
+
+
+def get_total_values_post_peak(df: pd.DataFrame, df_total: pd.DataFrame) -> pd.DataFrame:
+    df_total.iloc[1, 2:] = df.loc[
+        df['Total'] == 'TOTAL', ['PS Traffic (MB)', 'TU PRB DL (%)', 'TU PRB UL (%)', 'ePS CSSR',
+                                 'CSFB SR', 'ePS CDR', 'DL User Throughput (Mbps)', 'UL User Throughput (Mbps)',
+                                 'VOLTE Traffic (Erl)', 'VOLTE \nCSSR', 'VOLTE CDR']]
+
+    return df_total
+
+
+# Khai báo hàm để lưu file Excel
+def save_excel_file(df, file_name):
+    # Tạo đối tượng ExcelWriter
+    writer = pd.ExcelWriter(file_name, engine='xlsxwriter')
+
+    # Ghi DataFrame vào sheet 'OSS KPI Sum'
+    df.to_excel(writer, sheet_name='OSS KPI Sum', index=False)
+
+    # Tạo đối tượng workbook và worksheet để tuỳ chỉnh
+    workbook = writer.book
+    worksheet = writer.sheets['OSS KPI Sum']
+
+    # Thiết lập định dạng cho các cột
+    format1 = workbook.add_format({'num_format': '0.00'})
+    worksheet.set_column('C:N', None, format1)
+
+    # Lưu file
+    writer.close()
+
+
+def data_Date(df: pd.DataFrame, post_date_range: str) -> pd.DataFrame:
+    # Tạo mảng chứa các giá trị Date
+    date_values = np.array([
+        'Pre (2/15-21)',
+        f'Post ({post_date_range})',
+        'Post vs Pre\nBetter(+)/Worse(-)',
+        'Previous day',
+        'Today',
+        'Today vs Previous day\nBetter(+)/Worse(-)'
+    ])
+    # Lặp lại các giá trị 20 lần
+    date_values_repeated = np.tile(date_values, 20)
+    # Cập nhật số lượng dòng của DataFrame
+    df = df.reindex(range(len(date_values_repeated)), fill_value=np.nan)
+    # Thêm cột Date vào df_total
+    df.insert(0, 'Date', date_values_repeated, True)
+    return df
+
+
+def date_SiteName(df: pd.DataFrame) -> pd.DataFrame:
+    data_value = ["Total (Day)", "Total (Peak)", 4179, 4178, 4177, 4176, 2777, 2855, 187, 1023, 1037, 891,
+                  "Cell Group (70% ≤ TU < 75%)", "Cell Group (75% ≤ TU < 80%)", "Cell Group (80% ≤ TU < 85%)",
+                  "Cell Group (85% ≤ TU < 90%)", "Cell Group (90% ≤ TU < 95%)", "Cell Group (95% ≤ TU < 100%)",
+                  "Cell Group (75% ≤ TU < 100%)", "Cell Group (85% ≤ TU < 100%)"]
+    # add 5 empty values after each data value
+    new_data = []
+    for value in data_value:
+        new_data.extend([value, '', '', '', '', ''])
+    df.insert(0, 'Site name', new_data, True)
+    return df
+
+
+def format_data(df: pd.DataFrame) -> pd.DataFrame:
+    # Đổi giá trị MB qua GB
+    df['PS Traffic (GB)'] = df['PS Traffic (GB)'].astype(float)
+    df['PS Traffic (GB)'] = df['PS Traffic (GB)'].apply(lambda x: x / 1000).round(0)
+    # Format lại kiểu các giá trị còn lại
+    df[['DL User Throughput (Mbps)', 'UL User Throughput (Mbps)', 'VOLTE Traffic (Erl)']] = \
+        df[['DL User Throughput (Mbps)', 'UL User Throughput (Mbps)', 'VOLTE Traffic (Erl)']].applymap(
+            lambda x: f"{round(float(x), 2):,}" if not isinstance(x, str) and not math.isnan(x) else "")
+
+    # Format giá trị 2 cột DL và UL chỉ hiện 2 số sau dấu phẩy
+    df[['TU PRB DL (%)', 'TU PRB UL (%)']] = df[['TU PRB DL (%)', 'TU PRB UL (%)']].applymap(
+        lambda x: f"{round(float(x), 2):,}%" if not isinstance(x, str) and not math.isnan(x) else "")
+
+    # Format các giá trị cột về %
+    df[['VOLTE CDR', 'ePS CSSR', 'CSFB SR', 'ePS CDR', 'VOLTE CSSR']] = \
+        df[['VOLTE CDR', 'ePS CSSR', 'CSFB SR', 'ePS CDR', 'VOLTE CSSR']].applymap(
+            lambda x: f"{float(x) * 100:.2f}%" if not isinstance(x, str) and not math.isnan(x) else "")
+    return df
+
+
+def caiculator_data(df: pd.DataFrame) -> pd.DataFrame:
+    # Tách phần số và phần % bằng dấu %
+    for column in selected_columns_percent:
+        df[column] = df[column].str.replace('%', '')
+    # Đổi kiểu các ô thành float
+    for column in selected_columns:
+        df[column] = pd.to_numeric(df[column], errors='coerce')
+
+    # Lấy giá trị hàng Better(+)/Worse(-)
+    df.loc[2, selected_columns] = df.loc[1, selected_columns] - df.loc[0, selected_columns]
+
+    # Thêm dấu phần trăm chỉ ở những ô có giá trị
+    df[selected_columns_percent] = df[selected_columns_percent].applymap(
+        lambda x: f"{x:.2f}%" if not pd.isna(x) else '')
+
+    return df
+
+
+def read_excel_files(folder_path: str) -> dict:
+    # Tạo một dictionary để lưu trữ các DataFrame đọc được từ các file Excel
+    dfs = {}
+    # Tạo một danh sách để lưu trữ các tên file Excel đã đọc được
+    file_names = []
+    # Tìm tất cả các file Excel trong thư mục cụ thể
+    file_list = glob.glob(folder_path + "/*.xlsx") + glob.glob(folder_path + "/*.xlsb")
+    # Đọc dữ liệu từ các file Excel và lưu trữ vào dictionary
+    for file in file_list:
+        # Lấy tên file làm key trong dictionary
+        file_name = file.split("/")[-1]
+        # Thêm tên file vào danh sách file_names
+        file_names.append(file_name)
+        # Đọc dữ liệu từ file Excel và lưu trữ vào dictionary
+        if file.endswith('.xlsx'):
+            dfs[file_name] = pd.read_excel(file)
+        elif file.endswith('.xlsb'):
+            with open(file, 'rb') as f:
+                df = pd.read_excel(f, engine='pyxlsb')
+                dfs[file_name] = df
+    # Trả về dictionary dfs và danh sách file_names
+    return dfs, file_names
+
+
+def main() -> None:
+    # Mở hộp thoại chọn thư mục chứa các file Excel
+    folder_path = filedialog.askdirectory()
+    # Đọc tất cả các file Excel trong thư mục và lưu trữ dữ liệu trong các DataFrame khác nhau
+    dfs, file_names = read_excel_files(folder_path)
+
+    # Đọc lấy file "CLUSTER_09_04_New.xlsx"
+    df_cluster = pd.ExcelFile(os.path.join(folder_path, "CLUSTER_09_04_New.xlsx"))
+    df_4178 = pd.ExcelFile(os.path.join(folder_path, "eHNI4178_KPI monitoring.xlsb"))
+    print(df_4178.sheet_names)
+    # Đọc sheet "DTT_Pre_Cluster_Daily" trong file Excel
+    df_pre_daily = df_cluster.parse('DTT_Pre_Cluster_Daily')
+    df_post_daily = df_cluster.parse('DTT_Post_Cluster_Daily')
+    # df_pre_peak = df_cluster.parse('DTT_Pre_Cluster_Peak')
+    # df_post_peak = df_cluster.parse('DTT_Post_Cluster_Peak')
+
+    df_total = pd.DataFrame(columns=selected_columns)
+    df_total = data_Date(df_total, '04/03-09')
+    df_total = date_SiteName(df_total)
+    df_total = get_total_values_pre_daily(df_pre_daily, df_total)
+    df_total = get_total_values_post_daily(df_post_daily, df_total)
+    df_total = format_data(df_total)
+    df_total = caiculator_data(df_total)
+    # # df_total = get_total_values_pre_peak(df_pre_peak)
+    #
+    # Hiển thị hộp thoại để chọn nơi lưu file Excel
+    file_save_path = filedialog.asksaveasfilename(defaultextension='.xlsx')
+
+    # Nếu người dùng đã chọn file để lưu
+    if file_save_path:
+        # Lưu file Excel
+        save_excel_file(df_total, file_save_path)
+
+
+if __name__ == '__main__':
+    main()
